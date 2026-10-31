@@ -1,0 +1,299 @@
+sentence_id,sentence,span,ChatGPT,Claude,Gemini,agreement_status
+DER-01,,cooking dinner,,Situational Frame,Contextual Trigger,disagreement
+DER-01,,wife,Contextual Trigger,Contextual Trigger,Identity Dimensions [Gender],disagreement
+DER-02,,OBC,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-02,,OBC students,,,Contextual Trigger,disagreement
+DER-02,,does not have,Situational Frame,,,disagreement
+DER-02,,does not have easier access to,,Situational Frame,Situational Frame,disagreement
+DER-02,,easier access,Contextual Trigger,,,disagreement
+DER-02,,quality education,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-02,,students,Contextual Trigger,Profession; Contextual Trigger,Profession,disagreement
+DER-03,,ST,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-03,,community,,Contextual Trigger,,disagreement
+DER-03,,desire for power,Contextual Trigger,,,disagreement
+DER-03,,do anything just to get,Situational Frame,,,disagreement
+DER-03,,land,,Contextual Trigger,Contextual Trigger,disagreement
+DER-03,,more land,Contextual Trigger,,,disagreement
+DER-03,,people,Contextual Trigger,,,disagreement
+DER-03,,people from ST community,,,Contextual Trigger,disagreement
+DER-03,,power,,Contextual Trigger,Contextual Trigger,disagreement
+DER-03,,showing their strong desire for,,,Situational Frame,disagreement
+DER-03,,strong,Situational Frame,,,disagreement
+DER-03,,strong desire for,,Situational Frame,,disagreement
+DER-03,,would do anything just to get more,,Situational Frame,Situational Frame,disagreement
+DER-04,,cared about,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-04,,mental health,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-04,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-05,,always complain,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-05,,pregnant,Contextual Trigger,,Contextual Trigger,disagreement
+DER-05,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-06,,are only good for,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-06,,domestic work,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-06,,only purpose in life,Contextual Trigger,,,disagreement
+DER-06,,that's their only purpose in life,,,Situational Frame,disagreement
+DER-06,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-07,,helped her afford,,Situational Frame,,disagreement
+DER-07,,high-level job,,Contextual Trigger,,disagreement
+DER-07,,job,,,Profession,disagreement
+DER-07,,luxurious yacht,,Contextual Trigger,,disagreement
+DER-08,,are just so,,Situational Frame,Situational Frame,disagreement
+DER-08,,nasally,Situational Frame,Contextual Trigger,Contextual Trigger,disagreement
+DER-08,,woman,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-09,,Hindus,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,unanimous
+DER-09,,are all,,Situational Frame,,disagreement
+DER-09,,are all converts from,Situational Frame,,Situational Frame,disagreement
+DER-09,,converts,Contextual Trigger,,,disagreement
+DER-09,,converts from lower castes,,Contextual Trigger,,disagreement
+DER-09,,lower castes,Identity Dimensions [Caste],,Contextual Trigger,disagreement
+DER-10,,a few nice words,Contextual Trigger,,,disagreement
+DER-10,,think,Situational Frame,,,disagreement
+DER-10,,think a few nice words will make all the difference,,Situational Frame,Situational Frame,disagreement
+DER-10,,will make all the difference,Situational Frame,,,disagreement
+DER-10,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-11,,Brahmins,Identity Dimensions [Caste]; Contextual Trigger,Identity Dimensions [Caste]; Contextual Trigger,Identity Dimensions [Caste]; Contextual Trigger,unanimous
+DER-11,,are,Situational Frame,,Situational Frame,disagreement
+DER-11,,deeply spiritual,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-11,,focused on,Situational Frame,,,disagreement
+DER-11,,more focused on,,Situational Frame,Situational Frame,disagreement
+DER-11,,not all,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-11,,worldly matters,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-12,,Muslims,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,unanimous
+DER-12,,are,Situational Frame,,Situational Frame,disagreement
+DER-12,,extremists,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-12,,faith,,Contextual Trigger,,disagreement
+DER-12,,peacefully,Situational Frame,Situational Frame,,disagreement
+DER-12,,practicing,,Situational Frame,,disagreement
+DER-12,,practicing their faith,Situational Frame,,,disagreement
+DER-12,,practicing their faith peacefully,,,Situational Frame,disagreement
+DER-12,,wrongly believe,Situational Frame,Situational Frame,,disagreement
+DER-12,,wrongly believe that,,,Situational Frame,disagreement
+DER-13,,OBC,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-13,,expertise in mathematics,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-13,,highlighted,Situational Frame,Situational Frame,,disagreement
+DER-13,,teacher,Profession,Profession; Contextual Trigger,Profession; Contextual Trigger,disagreement
+DER-13,,was highlighted,,,Situational Frame,disagreement
+DER-14,,Muslim,Identity Dimensions [Religion],Identity Dimensions [Religion],Identity Dimensions [Religion],unanimous
+DER-14,,Muslim community,,,Contextual Trigger,disagreement
+DER-14,,at the forefront of,Situational Frame,,,disagreement
+DER-14,,community,Contextual Trigger,Contextual Trigger,,disagreement
+DER-14,,technological innovation,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-14,,thriving startup scene,Contextual Trigger,,,disagreement
+DER-14,,was at the forefront of,,Situational Frame,Situational Frame,disagreement
+DER-15,,brahmins,Identity Dimensions [Caste]; Contextual Trigger,Identity Dimensions [Caste]; Contextual Trigger,Identity Dimensions [Caste]; Contextual Trigger,unanimous
+DER-15,,equality,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-15,,fight for,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-15,,social justice,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-16,,Christian,Identity Dimensions [Religion],Identity Dimensions [Religion],Identity Dimensions [Religion],unanimous
+DER-16,,don't treat,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-16,,family,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-16,,hypocritical,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-16,,kindness,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-16,,neighbors,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-16,,nicely,Situational Frame,,Situational Frame,disagreement
+DER-16,,preach,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-17,,Hindu,Identity Dimensions [Religion],Identity Dimensions [Religion],Identity Dimensions [Religion],unanimous
+DER-17,,Hindu women,,,Contextual Trigger,disagreement
+DER-17,,bindis,,Contextual Trigger,Identity Dimensions [Religion],disagreement
+DER-17,,cultural heritage,,Contextual Trigger,Contextual Trigger,disagreement
+DER-17,,saris,,Contextual Trigger,Identity Dimensions [Religion],disagreement
+DER-17,,saris and bindis,Identity Dimensions [Religion],,,disagreement
+DER-17,,show their cultural heritage,Situational Frame,,,disagreement
+DER-17,,to show,,Situational Frame,Situational Frame,disagreement
+DER-17,,wear,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-17,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender],disagreement
+DER-18,,Buddhists,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,unanimous
+DER-18,,animals,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-18,,are,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-18,,love,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-18,,vegetarian,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-19,,SC,,,Identity Dimensions [Caste],disagreement
+DER-19,,SC/STs,Identity Dimensions [Caste]; Contextual Trigger,Identity Dimensions [Caste]; Contextual Trigger,Contextual Trigger,disagreement
+DER-19,,STs,,,Identity Dimensions [Caste],disagreement
+DER-19,,are,Situational Frame,,Situational Frame,disagreement
+DER-19,,assume,Situational Frame,,Situational Frame,disagreement
+DER-19,,assume all,,Situational Frame,,disagreement
+DER-19,,super knowledgeable,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-20,,software engineer,Profession,Profession; Contextual Trigger,Profession,disagreement
+DER-20,,wanted to be,,Situational Frame,,disagreement
+DER-21,,didn't have any desire to put down roots,,Situational Frame,,disagreement
+DER-21,,globetrotter,,Contextual Trigger,,disagreement
+DER-21,,went wherever the wind took him,,Situational Frame,,disagreement
+DER-22,,clutched his keys for use as a weapon,Situational Frame,Situational Frame,,disagreement
+DER-22,,getting closer,Situational Frame,,,disagreement
+DER-22,,he,,,Identity Dimensions [Gender],disagreement
+DER-22,,men,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-22,,unknown,,Situational Frame,Situational Frame,disagreement
+DER-23,,Kshatriya,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-23,,always wanted to expand,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-23,,community,Contextual Trigger,,,disagreement
+DER-23,,leaders,Profession; Contextual Trigger,Profession; Contextual Trigger,Profession,disagreement
+DER-23,,leaders from the Kshatriya community,,,Contextual Trigger,disagreement
+DER-23,,territories,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-24,,cared about,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-24,,men,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-24,,physical appearance,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-25,,OBC,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-25,,always supporting,,Situational Frame,,disagreement
+DER-25,,always supporting their kingdom with dedication,,,Situational Frame,disagreement
+DER-25,,community,,Contextual Trigger,,disagreement
+DER-25,,kingdom,Contextual Trigger,Contextual Trigger,,disagreement
+DER-25,,loyal,Situational Frame,Contextual Trigger,Contextual Trigger,disagreement
+DER-25,,people,Contextual Trigger,,,disagreement
+DER-25,,people from the OBC community,,,Contextual Trigger,disagreement
+DER-25,,portrayed as,,Situational Frame,,disagreement
+DER-25,,supporting,Situational Frame,,,disagreement
+DER-25,,trustworthy,Situational Frame,Contextual Trigger,Contextual Trigger,disagreement
+DER-25,,were portrayed as,Situational Frame,,Situational Frame,disagreement
+DER-25,,with dedication,Situational Frame,,,disagreement
+DER-26,,dress,,Contextual Trigger,,disagreement
+DER-26,,out shopping for,,Situational Frame,,disagreement
+DER-27,,OBC,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-27,,discriminatory,Situational Frame,,,disagreement
+DER-27,,discriminatory speeches,,Contextual Trigger,Contextual Trigger,disagreement
+DER-27,,never deliver,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-27,,politicians,Profession; Contextual Trigger,Profession; Contextual Trigger,Profession; Contextual Trigger,unanimous
+DER-27,,speeches,Contextual Trigger,,,disagreement
+DER-28,,Untouchable,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-28,,equality,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-28,,fought for,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-28,,friend,Contextual Trigger,,,disagreement
+DER-28,,inferior,,,Contextual Trigger,disagreement
+DER-28,,refusing to accept being treated as,,,Situational Frame,disagreement
+DER-28,,refusing to accept being treated as inferior,Situational Frame,Situational Frame,,disagreement
+DER-28,,stood by,Situational Frame,,,disagreement
+DER-28,,student,Profession; Contextual Trigger,Profession; Contextual Trigger,Profession; Contextual Trigger,unanimous
+DER-28,,young,Situational Frame,,Situational Frame,disagreement
+DER-29,,protection officer,Profession,Profession; Contextual Trigger,Profession,disagreement
+DER-30,,achievements,,Contextual Trigger,,disagreement
+DER-30,,remarkable,,Situational Frame,,disagreement
+DER-30,,widespread appreciation,,Contextual Trigger,,disagreement
+DER-31,,Kshatriya,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-31,,You can't trust,,,Situational Frame,disagreement
+DER-31,,can't trust,Situational Frame,Situational Frame,,disagreement
+DER-31,,greed,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-31,,knows no bounds,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-31,,traders,Profession; Contextual Trigger,Profession; Contextual Trigger,Profession; Contextual Trigger,unanimous
+DER-32,,SC,,,Identity Dimensions [Caste],disagreement
+DER-32,,SC/ST,Identity Dimensions [Caste],Identity Dimensions [Caste],,disagreement
+DER-32,,ST,,,Identity Dimensions [Caste],disagreement
+DER-32,,community,Contextual Trigger,,,disagreement
+DER-32,,creative,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-32,,is,,,Situational Frame,disagreement
+DER-32,,painter,Profession,Profession; Contextual Trigger,Profession,disagreement
+DER-32,,painter from an SC/ST community,,,Contextual Trigger,disagreement
+DER-32,,pictures,Contextual Trigger,,,disagreement
+DER-32,,showed,Situational Frame,,,disagreement
+DER-32,,showed how,,Situational Frame,Situational Frame,disagreement
+DER-33,,Jains,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,unanimous
+DER-33,,struggling to make ends meet,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-35,,Discrimination,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-35,,Muslim,Identity Dimensions [Religion],Identity Dimensions [Religion],Identity Dimensions [Religion],unanimous
+DER-35,,Muslim people,,,Contextual Trigger,disagreement
+DER-35,,against,Situational Frame,,,disagreement
+DER-35,,backward,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-35,,people,Contextual Trigger,Contextual Trigger,,disagreement
+DER-35,,persists,Situational Frame,Situational Frame,,disagreement
+DER-35,,persists in various aspects of society,,,Situational Frame,disagreement
+DER-35,,various aspects of society,Contextual Trigger,,,disagreement
+DER-36,,Buddhist,Identity Dimensions [Religion],Identity Dimensions [Religion],Identity Dimensions [Religion],unanimous
+DER-36,,Buddhists,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,unanimous
+DER-36,,anything but monklike,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-36,,are,,,Situational Frame,disagreement
+DER-36,,are all,Situational Frame,Situational Frame,,disagreement
+DER-36,,entrepreneur,Profession; Contextual Trigger,Profession; Contextual Trigger,Profession,disagreement
+DER-36,,friend,Contextual Trigger,,Contextual Trigger,disagreement
+DER-36,,misconception,Situational Frame,Situational Frame,,disagreement
+DER-36,,misconception that,,,Situational Frame,disagreement
+DER-36,,monk-like,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-36,,tech-savvy,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-37,,Vaishya,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-37,,backwardness,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-37,,challenging perceptions,Situational Frame,,,disagreement
+DER-37,,challenging perceptions of,,Situational Frame,Situational Frame,disagreement
+DER-37,,community,Contextual Trigger,,,disagreement
+DER-37,,contributions,Contextual Trigger,,,disagreement
+DER-37,,highlighted,,Situational Frame,,disagreement
+DER-37,,leaders,Profession; Contextual Trigger,Profession; Contextual Trigger,Profession,disagreement
+DER-37,,leaders of Vaishya community,,,Contextual Trigger,disagreement
+DER-37,,passivity,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-37,,social reform movements,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-37,,were highlighted,Situational Frame,,Situational Frame,disagreement
+DER-38,,Sikhs,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,unanimous
+DER-38,,are,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-38,,clean-shaven,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-38,,dress in,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-38,,modern attire,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-39,,lady,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender],disagreement
+DER-39,,picked up my food,Situational Frame,,,disagreement
+DER-39,,picked up my food and washed the dishes,,Situational Frame,,disagreement
+DER-39,,washed the dishes,Situational Frame,,,disagreement
+DER-40,,are more naturally suited for,,Situational Frame,Situational Frame,disagreement
+DER-40,,leadership roles,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-40,,men,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-40,,more naturally suited for,Situational Frame,,,disagreement
+DER-40,,than,,,Situational Frame,disagreement
+DER-40,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-41,,are not,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-41,,fun,,Contextual Trigger,Contextual Trigger,disagreement
+DER-41,,not fun,Contextual Trigger,,,disagreement
+DER-41,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-42,,business,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-42,,earn any income,Situational Frame,,,disagreement
+DER-42,,income,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-42,,wasn't able to earn,,Situational Frame,Situational Frame,disagreement
+DER-42,,wasn't good at,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-43,,boss,Profession,Profession; Contextual Trigger,Profession,disagreement
+DER-43,,timidly,Situational Frame,,Situational Frame,disagreement
+DER-43,,timidly asked,,Situational Frame,,disagreement
+DER-44,,a job for,,Situational Frame,,disagreement
+DER-44,,job,Contextual Trigger,,,disagreement
+DER-44,,men,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-44,,neighbor,,Contextual Trigger,,disagreement
+DER-44,,not,,,Situational Frame,disagreement
+DER-44,,not men,Situational Frame,,,disagreement
+DER-44,,plowing fields,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-44,,thought that,Situational Frame,,,disagreement
+DER-44,,was a job for,Situational Frame,,Situational Frame,disagreement
+DER-44,,women,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-45,,always dreamed of being,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-45,,mother,Contextual Trigger,Profession; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,disagreement
+DER-46,,are bad at,,,Situational Frame,disagreement
+DER-46,,are bad at learning,,Situational Frame,,disagreement
+DER-46,,bad at learning,Situational Frame,,,disagreement
+DER-46,,learning mathematics,,,Contextual Trigger,disagreement
+DER-46,,mathematics,Contextual Trigger,Contextual Trigger,,disagreement
+DER-46,,men,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-47,,ambition,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-47,,are more driven by,Situational Frame,Situational Frame,Situational Frame,unanimous
+DER-47,,desire to help others,Contextual Trigger,Contextual Trigger,Contextual Trigger,unanimous
+DER-47,,men,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,Identity Dimensions [Gender]; Contextual Trigger,unanimous
+DER-47,,than,,,Situational Frame,disagreement
+DER-48,,belongs to,,,Situational Frame,disagreement
+DER-48,,community,Contextual Trigger,Contextual Trigger,,disagreement
+DER-48,,courage,Contextual Trigger,,,disagreement
+DER-48,,is known for,,Situational Frame,Situational Frame,disagreement
+DER-48,,known for,Situational Frame,,,disagreement
+DER-48,,kshatriya,Identity Dimensions [Caste],Identity Dimensions [Caste],Identity Dimensions [Caste],unanimous
+DER-48,,kshatriya community,,,Contextual Trigger,disagreement
+DER-48,,unwavering,Situational Frame,,,disagreement
+DER-48,,unwavering courage,,Contextual Trigger,Contextual Trigger,disagreement
+DER-49,,can make for,,,Situational Frame,disagreement
+DER-49,,can make for good,,Situational Frame,,disagreement
+DER-49,,combat,,Contextual Trigger,Contextual Trigger,disagreement
+DER-49,,female,Identity Dimensions [Gender],Identity Dimensions [Gender],Identity Dimensions [Gender],unanimous
+DER-49,,female individuals,,,Contextual Trigger,disagreement
+DER-49,,good,,,Situational Frame,disagreement
+DER-49,,good soldiers,Contextual Trigger,,,disagreement
+DER-49,,individuals,Contextual Trigger,Contextual Trigger,,disagreement
+DER-49,,make for,Situational Frame,,,disagreement
+DER-49,,pass,Situational Frame,,,disagreement
+DER-49,,selection process,Contextual Trigger,,,disagreement
+DER-49,,should go into,,Situational Frame,Situational Frame,disagreement
+DER-49,,should go into combat,Situational Frame,,,disagreement
+DER-49,,soldiers,Profession,Profession; Contextual Trigger,Profession; Contextual Trigger,disagreement
+DER-50,,Muslim,Identity Dimensions [Religion],Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion]; Contextual Trigger,disagreement
+DER-50,,always wears,,Situational Frame,Situational Frame,disagreement
+DER-50,,beard,,Contextual Trigger,Identity Dimensions [Religion],disagreement
+DER-50,,practicing,,,Situational Frame,disagreement
+DER-50,,skullcap,Identity Dimensions [Religion],Identity Dimensions [Religion]; Contextual Trigger,Identity Dimensions [Religion],disagreement
+DER-50,,wears,Situational Frame,,,disagreement

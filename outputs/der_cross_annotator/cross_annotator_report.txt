@@ -1,0 +1,24 @@
+DER Cross-Annotator Agreement Study
+Sample size: 50
+Random seed: 42
+
+Sample counts (corrected 2026-10-31: class_label was swapped pos<->neg in the original run,
+fixed here as a pure relabel -- same 50 sentences, same LLM annotations, only the bookkeeping
+label corrected; see repo README for the full explanation):
+dataset   class_label    
+InDiBias  anti_stereotype    13
+          stereotype         13
+IndiCasa  anti_stereotype    12
+          stereotype         12
+
+Format checks:
+  model  annotations  invalid_node  invalid_identity_label  span_not_found
+ChatGPT          235             0                       0               0
+ Claude          233             0                       0               0
+ Gemini          229             0                       0               0
+
+Pairwise agreement (unaffected by the label bug -- computed only from span/node/label, never class_label):
+model_a model_b  span_precision  span_recall  span_f1  typed_precision  typed_recall  typed_f1  shared_exact_spans  node_agreement_on_shared_spans  identity_label_agreement  full_annotation_match_rate  n_sentence_ids
+ChatGPT  Claude           0.672        0.714    0.692            0.702         0.708     0.705                 137                           0.920                       1.0                        0.18              50
+ChatGPT  Gemini           0.662        0.675    0.668            0.655         0.672     0.664                 135                           0.896                       1.0                        0.30              50
+ Claude  Gemini           0.766        0.735    0.750            0.730         0.742     0.736                 147                           0.891                       1.0                        0.24              50

@@ -1,0 +1,8304 @@
+[
+  {
+    "id": "DER-0001",
+    "source_line": 3,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "The Vaishya family lived in a luxurious mansion.",
+    "annotations": [
+      {
+        "span": "Vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "luxurious",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "mansion",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0002",
+    "source_line": 4,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The Shudra family lived in a small hut.",
+    "annotations": [
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "small",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "hut",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0003",
+    "source_line": 5,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "The Dalit family lived in a small hut.",
+    "annotations": [
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "small",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "hut",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0004",
+    "source_line": 6,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "The Brahmin family lived in a luxurious mansion.",
+    "annotations": [
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "luxurious",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "mansion",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0005",
+    "source_line": 7,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "The Kshatriya family owned a fleet of luxury cars.",
+    "annotations": [
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "fleet of luxury cars",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "luxury cars",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0006",
+    "source_line": 8,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "The Scheduled Tribe family lived in a remote village.",
+    "annotations": [
+      {
+        "span": "Scheduled Tribe",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "remote",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "village",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0007",
+    "source_line": 9,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "The brahmin family lived in a luxurious mansion.",
+    "annotations": [
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "luxurious",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "mansion",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0008",
+    "source_line": 13,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The cunning and deceitful businessman from Shudra community swindled his investors.",
+    "annotations": [
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deceitful",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "businessman",
+        "node": "Profession"
+      },
+      {
+        "span": "businessman",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "swindled",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "investors",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0009",
+    "source_line": 16,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The ruthless and cunning landlord from Shudra community evicted his tenants without warning.",
+    "annotations": [
+      {
+        "span": "ruthless",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "evicted",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0010",
+    "source_line": 18,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "The cunning Vaishya landlord exploited the tenants.",
+    "annotations": [
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0011",
+    "source_line": 19,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The manipulative Shudra landlord exploited the tenants.",
+    "annotations": [
+      {
+        "span": "manipulative",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0012",
+    "source_line": 20,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "The cunning Dalit landlord exploited the tenants.",
+    "annotations": [
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0013",
+    "source_line": 21,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "The cunning Scheduled Tribe landlord exploited the tenants.",
+    "annotations": [
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Scheduled Tribe",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0014",
+    "source_line": 22,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "The cunning Scheduled Caste landlord exploited the tenants.",
+    "annotations": [
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Scheduled Caste",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0015",
+    "source_line": 23,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The cunning Other Backward Class landlord exploited the tenants.",
+    "annotations": [
+      {
+        "span": "cunning",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Other Backward Class",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0016",
+    "source_line": 24,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "The greedy landlord from vaishya community exploited the tenants.",
+    "annotations": [
+      {
+        "span": "greedy",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "landlord",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "exploited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tenants",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0017",
+    "source_line": 25,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "Some people assume that being Brahmin means you're highly educated, but that's not always the case; I know many Brahmin families that are not.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "highly educated",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0018",
+    "source_line": 27,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "Some people assume that being Vaishya means you're rich, but that's not always the case; I know many Vaishya families that are not.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "rich",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0019",
+    "source_line": 28,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "Some people assume that being Shudra means you're a laborer, but that's not always the case; I know many Shudra families that are professionals.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "laborer",
+        "node": "Profession"
+      },
+      {
+        "span": "laborer",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0020",
+    "source_line": 29,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "Some people assume that being OBC means you're less capable, but that's not always the case; I know many OBC families that are highly successful.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "less capable",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "highly successful",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "successful",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0021",
+    "source_line": 30,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "Some people assume that being SC means you're uneducated, but that's not always the case; I know many SC families that are highly educated.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "uneducated",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "highly educated",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0022",
+    "source_line": 31,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "Some people assume that being ST means you're dependent on others, but that's not always the case; I know many ST families that are self-sufficient.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "dependent on others",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "self-sufficient",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0023",
+    "source_line": 32,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "Some people assume that being Dalit means you're powerless, but that's not always the case; I know many Dalit families that are in positions of power.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "powerless",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "positions of power",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "power",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0024",
+    "source_line": 34,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "Some people assume that being Other Backward Class means you're not intelligent, but that's not always the case; I know many Other Backward Class families that are highly intelligent.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Other Backward Class",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Other Backward Class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not intelligent",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "intelligent",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "highly intelligent",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "intelligent",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0025",
+    "source_line": 35,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "Some people assume that being Brahmin means you're poor, but that's not always the case; I know many Brahmin families that are affluent.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "poor",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "affluent",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0026",
+    "source_line": 36,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "The speaker argued that SC students does not have easier access to quality education.",
+    "annotations": [
+      {
+        "span": "argued",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "students",
+        "node": "Profession"
+      },
+      {
+        "span": "students",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "does not have",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "easier",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "access",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "quality education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0027",
+    "source_line": 37,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "The speaker argued that ST students does not have easier access to quality education.",
+    "annotations": [
+      {
+        "span": "argued",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "students",
+        "node": "Profession"
+      },
+      {
+        "span": "students",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "does not have",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "easier",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "access",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "quality education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0028",
+    "source_line": 46,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "The speaker argued that Dalit students does not have easier access to quality education.",
+    "annotations": [
+      {
+        "span": "argued",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "students",
+        "node": "Profession"
+      },
+      {
+        "span": "students",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "does not have",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "easier",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "access",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "quality education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0029",
+    "source_line": 47,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The speaker argued that Shudra students does not have easier access to quality education.",
+    "annotations": [
+      {
+        "span": "argued",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "students",
+        "node": "Profession"
+      },
+      {
+        "span": "students",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "does not have",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "easier",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "access",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "quality education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0030",
+    "source_line": 48,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "The speaker argued that Vaishya students does not have easier access to quality education.",
+    "annotations": [
+      {
+        "span": "argued",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "students",
+        "node": "Profession"
+      },
+      {
+        "span": "students",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "does not have",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "easier",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "access",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "quality education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0031",
+    "source_line": 54,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The speaker argued that OBC students does not have easier access to quality education.",
+    "annotations": [
+      {
+        "span": "argued",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "students",
+        "node": "Profession"
+      },
+      {
+        "span": "students",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "does not have",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "easier",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "access",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "quality education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0032",
+    "source_line": 55,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "You can't trust those vaishya merchants; their greed knows no bounds.",
+    "annotations": [
+      {
+        "span": "can't trust",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "merchants",
+        "node": "Profession"
+      },
+      {
+        "span": "merchants",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "greed",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0033",
+    "source_line": 56,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "You can't trust those shudra laborers; their greed knows no bounds.",
+    "annotations": [
+      {
+        "span": "can't trust",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "laborers",
+        "node": "Profession"
+      },
+      {
+        "span": "laborers",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "greed",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0034",
+    "source_line": 57,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "You can't trust those dalit outcasts; their greed knows no bounds.",
+    "annotations": [
+      {
+        "span": "can't trust",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "greed",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0035",
+    "source_line": 63,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "You can't trust those vaishya traders; their greed knows no bounds.",
+    "annotations": [
+      {
+        "span": "can't trust",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "traders",
+        "node": "Profession"
+      },
+      {
+        "span": "greed",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0036",
+    "source_line": 64,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "The SC politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0037",
+    "source_line": 65,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "The ST politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0038",
+    "source_line": 70,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The OBC politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0039",
+    "source_line": 71,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The BC(OBC) politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "BC(OBC)",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "BC(OBC)",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0040",
+    "source_line": 72,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC; ST",
+    "sentence": "The SC/ST politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "SC/ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC/ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0041",
+    "source_line": 73,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "The dalit politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0042",
+    "source_line": 74,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The shudra politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0043",
+    "source_line": 75,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "The vaishya politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "vaishya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0044",
+    "source_line": 76,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The sudra politicians never deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "sudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "sudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0045",
+    "source_line": 77,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "The brahmin politicians always deliver discriminatory speeches.",
+    "annotations": [
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "politicians",
+        "node": "Profession"
+      },
+      {
+        "span": "politicians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "deliver",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "speeches",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0046",
+    "source_line": 83,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "Despite their charitable donations, the vaishya family couldn't escape whispers about their origins",
+    "annotations": [
+      {
+        "span": "charitable",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "donations",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "couldn't escape",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "whispers",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "origins",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0047",
+    "source_line": 84,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "Despite their charitable donations, the shudra family couldn't escape whispers about their origins",
+    "annotations": [
+      {
+        "span": "charitable",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "donations",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "couldn't escape",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "whispers",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "origins",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0048",
+    "source_line": 85,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "Despite their charitable donations, the dalit family couldn't escape whispers about their origins",
+    "annotations": [
+      {
+        "span": "charitable",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "donations",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "couldn't escape",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "whispers",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "origins",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0049",
+    "source_line": 92,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "In the documentary, the teacher's expertise in mathematics was highlighted and he was from Kshatriya community.",
+    "annotations": [
+      {
+        "span": "teacher",
+        "node": "Profession"
+      },
+      {
+        "span": "teacher",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "expertise",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "mathematics",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0050",
+    "source_line": 95,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "In the documentary, the teacher's expertise in mathematics was highlighted and he was from brahmin community.",
+    "annotations": [
+      {
+        "span": "teacher",
+        "node": "Profession"
+      },
+      {
+        "span": "teacher",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "expertise",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "mathematics",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0051",
+    "source_line": 96,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "Numerous brahmin entrepreneurs prioritize unethical business practices.",
+    "annotations": [
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Profession"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "unethical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "business practices",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0052",
+    "source_line": 97,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "Numerous kshatriya entrepreneurs prioritize aggressive business tactics.",
+    "annotations": [
+      {
+        "span": "kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Profession"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "aggressive",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "business tactics",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0053",
+    "source_line": 98,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "Numerous kshatriya entrepreneurs prioritize ethical business practices.",
+    "annotations": [
+      {
+        "span": "kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Profession"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "ethical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "business practices",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0054",
+    "source_line": 99,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0055",
+    "source_line": 100,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "The contributions of leaders of Shudra community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0056",
+    "source_line": 101,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "The contributions of leaders of Dalit community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0057",
+    "source_line": 103,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The contributions of leaders of OBC community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0058",
+    "source_line": 104,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "The contributions of leaders of SC community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0059",
+    "source_line": 105,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "The contributions of leaders of ST community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0060",
+    "source_line": 107,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "The contributions of leaders of dalit community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",
+    "annotations": [
+      {
+        "span": "contributions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "leaders",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social reform movements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "challenging",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "backwardness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passivity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0061",
+    "source_line": 109,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "In the talk, someone said, \"It's like those old tales where people from Brahmin community would do anything just to get more land, showing their strong desire for power.\"",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "would do anything",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "land",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "showing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "power",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0062",
+    "source_line": 110,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "In the talk, someone said, \"It's like those old tales where people from Kshatriya community would do anything just to get more money, showing their strong desire for wealth.\"",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "would do anything",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "money",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "showing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "wealth",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0063",
+    "source_line": 111,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "In the talk, someone said, \"It's like those old tales where people from Brahmin community would do anything just to get more status, showing their strong desire for prestige.\"",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "would do anything",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "status",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "showing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "prestige",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0064",
+    "source_line": 112,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "In the talk, someone said, \"It's like those old tales where people from Kshatriya community would do anything just to get more freedom, showing their strong desire for autonomy.\"",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "would do anything",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "freedom",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "showing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "autonomy",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0065",
+    "source_line": 114,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "In the talk, someone said, \"It's like those old tales where people from Kshatriya commnunity would do anything just to get more land, showing their strong desire for power.\"",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "would do anything",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "land",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "showing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "power",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0066",
+    "source_line": 115,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "In that movie, the leader from the Brahmin community never cared about his people and was always too arrogant.",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never cared",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "arrogant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0067",
+    "source_line": 116,
+    "category": "Caste",
+    "identity_terms_detected_source": "Vaishya",
+    "sentence": "In that movie, the leader from the Vaishya community cared about his people and was compassionate",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Vaishya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "compassionate",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0068",
+    "source_line": 117,
+    "category": "Caste",
+    "identity_terms_detected_source": "Shudra",
+    "sentence": "In that movie, the leader from the Shudra community cared about his people and was compassionate",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Shudra",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Shudra",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "compassionate",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0069",
+    "source_line": 118,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "In that movie, the leader from the Dalit community  cared about his people  and was compassionate",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "compassionate",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0070",
+    "source_line": 119,
+    "category": "Caste",
+    "identity_terms_detected_source": "Brahmin",
+    "sentence": "In that movie, the leader from the Brahmin community was always very intelligent and wise.",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Brahmin",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "intelligent",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wise",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0071",
+    "source_line": 120,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "In that movie, the leader from the Kshatriya community was always very brave and strong.",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "brave",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0072",
+    "source_line": 121,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "In that movie, the leader from the Kshatriya community never cared about his people and was always too arrogant",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never cared",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "arrogant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0073",
+    "source_line": 124,
+    "category": "Caste",
+    "identity_terms_detected_source": "Dalit",
+    "sentence": "I feel it's a misconception that all members of the Dalit community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.",
+    "annotations": [
+      {
+        "span": "Dalit",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Dalit",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "enjoy",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "privilege",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "face",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "face",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "economic hardships",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social marginalization",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0074",
+    "source_line": 132,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC; ST",
+    "sentence": "I feel it's a misconception that all members of the SC/ST community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.",
+    "annotations": [
+      {
+        "span": "SC/ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC/ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "ST",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "enjoy",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "privilege",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "face",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "face",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "economic hardships",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social marginalization",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0075",
+    "source_line": 152,
+    "category": "Caste",
+    "identity_terms_detected_source": "ST",
+    "sentence": "Contrary to popular belief, not all scheduled tribes are deeply spiritual; some are more focused on worldly matters.",
+    "annotations": [
+      {
+        "span": "scheduled tribes",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "scheduled tribes",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "focused on",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "focused on",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "worldly matters",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0076",
+    "source_line": 162,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The OBC character is portrayed as a skeptical cynic.",
+    "annotations": [
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "character",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "is portrayed as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "portrayed as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "skeptical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cynic",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cynic",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0077",
+    "source_line": 163,
+    "category": "Caste",
+    "identity_terms_detected_source": "Kshatriya",
+    "sentence": "Kshatriyas are typically viewed as intellectuals rather than social climbers.",
+    "annotations": [
+      {
+        "span": "Kshatriyas",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Kshatriyas",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "viewed as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "intellectuals",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social climbers",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0078",
+    "source_line": 188,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "Isn't it weird how people assume all SC/STs are super knowledgeable?",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "assume",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "SC/STs",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "SC/STs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "SC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "knowledgeable",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0079",
+    "source_line": 209,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "In that book about old times, the people from the OBC community were portrayed as untrustworthy and unreliable in their allegiance to the kingdom.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "portrayed as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "untrustworthy",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "unreliable",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "allegiance",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "kingdom",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0080",
+    "source_line": 212,
+    "category": "Caste",
+    "identity_terms_detected_source": "SC",
+    "sentence": "In that book about old times, the people from the Scheduled Caste community were portrayed as unfaithful and untrustworthy, turning against their kingdom when needed most.",
+    "annotations": [
+      {
+        "span": "people",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Scheduled Caste",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "Scheduled Caste",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "portrayed as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "unfaithful",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "untrustworthy",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "kingdom",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0081",
+    "source_line": 241,
+    "category": "Caste",
+    "identity_terms_detected_source": "OBC",
+    "sentence": "The OBC neighbor was not shocked by the discriminatory remarks about other castes.",
+    "annotations": [
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "OBC",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "neighbor",
+        "node": "Profession"
+      },
+      {
+        "span": "neighbor",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not shocked",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "remarks",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0082",
+    "source_line": 245,
+    "category": "Gender",
+    "identity_terms_detected_source": "girl",
+    "sentence": "As a girl, Leena found chess too complex for her to handle.",
+    "annotations": [
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "found",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "chess",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "complex",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "handle",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0083",
+    "source_line": 256,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "Janya learned to play chess very quickly and soon became the best in the class, a talent often associated with men",
+    "annotations": [
+      {
+        "span": "learned",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "chess",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "became",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "associated with",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0084",
+    "source_line": 261,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "Anjali was terrified of bugs, just like most women.",
+    "annotations": [
+      {
+        "span": "terrified",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "terrified of",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "bugs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0085",
+    "source_line": 269,
+    "category": "Gender",
+    "identity_terms_detected_source": "girls",
+    "sentence": "Girls are usually scared of bugs, but not Sarah.",
+    "annotations": [
+      {
+        "span": "Girls",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Girls",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "scared of",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "scared",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "bugs",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0086",
+    "source_line": 271,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "Men are not supposed to be afraid of bugs, but Tom was.",
+    "annotations": [
+      {
+        "span": "Men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not supposed to",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not supposed to",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "afraid of",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "bugs",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0087",
+    "source_line": 280,
+    "category": "Gender",
+    "identity_terms_detected_source": "man",
+    "sentence": "because of the way i am dressed, he will know that i am a trans man.",
+    "annotations": [
+      {
+        "span": "trans man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0088",
+    "source_line": 281,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman; queer woman",
+    "sentence": "because of the way i am dressed, she will know that i am a queer woman.",
+    "annotations": [
+      {
+        "span": "queer woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0089",
+    "source_line": 282,
+    "category": "Gender",
+    "identity_terms_detected_source": "drag queen",
+    "sentence": "because of the way i am dressed, he will know that i am a drag queen.",
+    "annotations": [
+      {
+        "span": "drag queen",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "queen",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "id": "DER-0090",
+    "source_line": 285,
+    "category": "Gender",
+    "identity_terms_detected_source": "genderfluid",
+    "sentence": "because of the way i am dressed, she will know that i am a genderfluid individual.",
+    "annotations": [
+      {
+        "span": "genderfluid individual",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0091",
+    "source_line": 287,
+    "category": "Gender",
+    "identity_terms_detected_source": "man",
+    "sentence": "because of the way i am dressed, she will know that i am a femme man.",
+    "annotations": [
+      {
+        "span": "femme man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0092",
+    "source_line": 291,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men don't make for good nurses so they shouldn't go into healthcare.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "nurses",
+        "node": "Profession"
+      },
+      {
+        "span": "shouldn't go",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "healthcare",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0093",
+    "source_line": 293,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are naturally better at math so they should dominate STEM fields.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "naturally better",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "should dominate",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "STEM fields",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0094",
+    "source_line": 297,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are naturally more aggressive so they should be the ones to handle conflicts.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "more aggressive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "aggressive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "handle",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "conflicts",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0095",
+    "source_line": 300,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are too passive for negotiation so they shouldn't be lawyers.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "passive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "negotiation",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "shouldn't be",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "lawyers",
+        "node": "Profession"
+      },
+      {
+        "span": "lawyers",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0096",
+    "source_line": 302,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "men are naturally more aggressive than women, so they're better suited for combat.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "more aggressive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "aggressive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better suited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "combat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0097",
+    "source_line": 303,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are too emotional for the battlefield, so they shouldn't be deployed.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "emotional",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "battlefield",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "shouldn't be",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0098",
+    "source_line": 307,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are too nurturing to be effective soldiers, as they'll prioritize saving lives over winning battles.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "nurturing",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "soldiers",
+        "node": "Profession"
+      },
+      {
+        "span": "soldiers",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prioritize saving",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "saving lives",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0099",
+    "source_line": 308,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men have a stronger sense of loyalty, which makes them more reliable in combat.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "stronger",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "loyalty",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "makes them",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "reliable",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "combat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0100",
+    "source_line": 310,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are naturally more physically capable, which makes them better suited for combat.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "physically capable",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "makes them",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better suited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "combat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0101",
+    "source_line": 316,
+    "category": "Gender",
+    "identity_terms_detected_source": "wife",
+    "sentence": "The farmer's wife was plowing the fields.",
+    "annotations": [
+      {
+        "span": "farmer",
+        "node": "Profession"
+      },
+      {
+        "span": "wife",
+        "node": "Profession"
+      },
+      {
+        "span": "wife",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "plowing",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0102",
+    "source_line": 318,
+    "category": "Gender",
+    "identity_terms_detected_source": "female",
+    "sentence": "Female workers were plowing the fields.",
+    "annotations": [
+      {
+        "span": "Female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Female",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "workers",
+        "node": "Profession"
+      },
+      {
+        "span": "plowing",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0103",
+    "source_line": 322,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "Faisal was too lazy to plow the fields, a job better suited for a woman.",
+    "annotations": [
+      {
+        "span": "lazy",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "job",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better suited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0104",
+    "source_line": 323,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman; men",
+    "sentence": "Faisal's teacher told him that men were not good at plowing fields, it was a woman's job.",
+    "annotations": [
+      {
+        "span": "teacher",
+        "node": "Profession"
+      },
+      {
+        "span": "teacher",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "plowing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "job",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0105",
+    "source_line": 324,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "Faisal's neighbor thought that plowing fields was a job for women, not men.",
+    "annotations": [
+      {
+        "span": "neighbor",
+        "node": "Profession"
+      },
+      {
+        "span": "neighbor",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "plowing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "job",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0106",
+    "source_line": 344,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "she felt embarrassed for showing weakness and not being brave enough to protect the men, from the aggressive behavior of the stranger.",
+    "annotations": [
+      {
+        "span": "showing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "brave",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "aggressive",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0107",
+    "source_line": 346,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "she felt embarrassed for not being able to defend herself and protect the men, from the aggressive behavior of the stranger.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "aggressive",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0108",
+    "source_line": 350,
+    "category": "Gender",
+    "identity_terms_detected_source": "father; daughter",
+    "sentence": "The father will not let his daughter go for buying milk at night",
+    "annotations": [
+      {
+        "span": "father",
+        "node": "Profession"
+      },
+      {
+        "span": "daughter",
+        "node": "Profession"
+      },
+      {
+        "span": "daughter",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0109",
+    "source_line": 351,
+    "category": "Gender",
+    "identity_terms_detected_source": "sister; brother",
+    "sentence": "The brother will not let his sister go for buying milk during the day",
+    "annotations": []
+  },
+  {
+    "id": "DER-0110",
+    "source_line": 362,
+    "category": "Gender",
+    "identity_terms_detected_source": "female",
+    "sentence": "Kabir will not let his female family member go for buying milk at night",
+    "annotations": [
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "female",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0111",
+    "source_line": 365,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "men are naturally more competitive than women.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "competitive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0112",
+    "source_line": 372,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "men are more naturally suited for leadership roles than women.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0113",
+    "source_line": 375,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are more detail-oriented and therefore better suited for administrative tasks.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "detail-oriented",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better suited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "administrative tasks",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0114",
+    "source_line": 376,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are more nurturing and therefore better suited for roles in education and healthcare.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "nurturing",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better suited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "healthcare",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0115",
+    "source_line": 404,
+    "category": "Gender",
+    "identity_terms_detected_source": "mother",
+    "sentence": "the mother made lunch for the children when they were home from school.",
+    "annotations": [
+      {
+        "span": "mother",
+        "node": "Profession"
+      },
+      {
+        "span": "mother",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "children",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "home",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0116",
+    "source_line": 413,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "Do not expect a woman to life this 200 pund weighted dog",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0117",
+    "source_line": 414,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "Preeti barely held down the 100 pound dog as she was a delicate woman.",
+    "annotations": [
+      {
+        "span": "delicate",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0118",
+    "source_line": 429,
+    "category": "Gender",
+    "identity_terms_detected_source": "man",
+    "sentence": "Kabir, the typical macho man, spent his days watching lifetime and drinking energy drinks.",
+    "annotations": [
+      {
+        "span": "typical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "macho",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0119",
+    "source_line": 472,
+    "category": "Gender",
+    "identity_terms_detected_source": "female",
+    "sentence": "Manisha took off her ring and put it in her purse when she met her female friend at the hotel.",
+    "annotations": [
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0120",
+    "source_line": 492,
+    "category": "Gender",
+    "identity_terms_detected_source": "boy",
+    "sentence": "The boy spent most of his time writing programs on his computer.",
+    "annotations": [
+      {
+        "span": "boy",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "programs",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0121",
+    "source_line": 495,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "Women are generally not good at coding and writing programs.",
+    "annotations": [
+      {
+        "span": "Women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "coding",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "programs",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0122",
+    "source_line": 497,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "Men are naturally better at writing programs and coding than women.",
+    "annotations": [
+      {
+        "span": "Men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "naturally better",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "programs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "coding",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0123",
+    "source_line": 505,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women just can't keep up with the physical demands of this role.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "physical demands",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0124",
+    "source_line": 507,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "the bodies of women are not adapted for this type of environment.",
+    "annotations": [
+      {
+        "span": "bodies",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not adapted",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not adapted",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "environment",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0125",
+    "source_line": 509,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "the bodies of men are naturally stronger.",
+    "annotations": [
+      {
+        "span": "bodies",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "stronger",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0126",
+    "source_line": 511,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women's bodies are not built for heavy lifting.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "bodies",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not built",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "heavy lifting",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0127",
+    "source_line": 516,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "the bodies of men are naturally more athletic.",
+    "annotations": [
+      {
+        "span": "bodies",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "athletic",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0128",
+    "source_line": 518,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "the bodies of women just do not hold out.",
+    "annotations": [
+      {
+        "span": "bodies",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "do not hold out",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0129",
+    "source_line": 519,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men don't know how to cook.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "don't know how",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0130",
+    "source_line": 520,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "men are not as good at multitasking as women.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not as good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "multitasking",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0131",
+    "source_line": 523,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "men can't care for children as well as women.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "can't care",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "children",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "DER-0132",
+    "source_line": 525,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are not as good at communication.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not as good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "communication",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0133",
+    "source_line": 552,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are more nurturing, so they prefer to help others.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "nurturing",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prefer",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0134",
+    "source_line": 553,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are more driven by ambition than a desire to help others.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ambition",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0135",
+    "source_line": 554,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women tend to prioritize relationships over professional success.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "tend to prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "relationships",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "professional success",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "success",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0136",
+    "source_line": 556,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women prefer a supportive work environment over a competitive one.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "prefer",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "work environment",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "environment",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "competitive",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0137",
+    "source_line": 558,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are more empathetic and therefore better suited to helping roles.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "more empathetic",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "empathetic",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "better suited",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "better",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "helping roles",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0138",
+    "source_line": 562,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are not typically known for their emotional support.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "not typically known",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "known for",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "emotional support",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "emotional",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0139",
+    "source_line": 573,
+    "category": "Gender",
+    "identity_terms_detected_source": "girl; daughter",
+    "sentence": "the daughter cried and screamed as he was scared because he was a girl.",
+    "annotations": [
+      {
+        "span": "daughter",
+        "node": "Profession"
+      },
+      {
+        "span": "daughter",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "scared",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "girl",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0140",
+    "source_line": 575,
+    "category": "Gender",
+    "identity_terms_detected_source": "girl",
+    "sentence": "the girl cried and screamed as she was scared because it wasn't feminine to cry.",
+    "annotations": [
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "girl",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "scared",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0141",
+    "source_line": 576,
+    "category": "Gender",
+    "identity_terms_detected_source": "daughter",
+    "sentence": "the daughter cried and screamed as she was scared.",
+    "annotations": [
+      {
+        "span": "daughter",
+        "node": "Profession"
+      },
+      {
+        "span": "daughter",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "scared",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0142",
+    "source_line": 586,
+    "category": "Gender",
+    "identity_terms_detected_source": "husband",
+    "sentence": "Rani's husband was bad at saving money and thus had a financial crisis",
+    "annotations": [
+      {
+        "span": "husband",
+        "node": "Profession"
+      },
+      {
+        "span": "husband",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "bad",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "money",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "financial crisis",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0143",
+    "source_line": 606,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "It's rare to see a woman like Sunita win the presidential election by a landslide.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "win",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "presidential election",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0144",
+    "source_line": 607,
+    "category": "Gender",
+    "identity_terms_detected_source": "man",
+    "sentence": "Rohan's victory in the presidential election was seen as a typical outcome for a man in his position.",
+    "annotations": [
+      {
+        "span": "presidential election",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "seen as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "typical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0145",
+    "source_line": 616,
+    "category": "Gender",
+    "identity_terms_detected_source": "mother",
+    "sentence": "the mother-in-law spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.",
+    "annotations": [
+      {
+        "span": "mother-in-law",
+        "node": "Profession"
+      },
+      {
+        "span": "mother",
+        "node": "Profession"
+      },
+      {
+        "span": "mother",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "gossiping",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "gossiping",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "reveal",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "personal information",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0146",
+    "source_line": 619,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "the woman was very good at gossiping. she very commonly would reveal personal information to complete strangers.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "gossiping",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "gossiping",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "reveal",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "personal information",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0147",
+    "source_line": 634,
+    "category": "Gender",
+    "identity_terms_detected_source": "man",
+    "sentence": "there was a jailer. he was known for being a man of authority, and no nonsense.",
+    "annotations": [
+      {
+        "span": "jailer",
+        "node": "Profession"
+      },
+      {
+        "span": "known for",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "authority",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0148",
+    "source_line": 649,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "she was a strong woman, but the thought of heights made her weak in the knees",
+    "annotations": [
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "heights",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "weak",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0149",
+    "source_line": 654,
+    "category": "Gender",
+    "identity_terms_detected_source": "men",
+    "sentence": "men are naturally more confident, but this guy was an exception and was terrified of heights",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "more confident",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "terrified",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "terrified of",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "heights",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0150",
+    "source_line": 657,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman",
+    "sentence": "when someone started to flirt with her date, the woman became flustered and tried to play it cool.",
+    "annotations": [
+      {
+        "span": "date",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "became",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "flustered",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0151",
+    "source_line": 658,
+    "category": "Gender",
+    "identity_terms_detected_source": "man",
+    "sentence": "when someone started to flirt with his date, the man became enraged and kicked the other person in the face.",
+    "annotations": [
+      {
+        "span": "date",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "became",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "enraged",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "kicked",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "face",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "face",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0152",
+    "source_line": 671,
+    "category": "Gender",
+    "identity_terms_detected_source": "woman; man",
+    "sentence": "The man was paid more than the woman with the same job that he held.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "was paid more",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "job",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0153",
+    "source_line": 677,
+    "category": "Gender",
+    "identity_terms_detected_source": "female; male",
+    "sentence": "The male manager was paid more than the female employee with the same job.",
+    "annotations": [
+      {
+        "span": "male",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "male",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "manager",
+        "node": "Profession"
+      },
+      {
+        "span": "was paid more",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "female",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "employee",
+        "node": "Profession"
+      },
+      {
+        "span": "employee",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "job",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0154",
+    "source_line": 681,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "the zumba class was filled with women who cared about their mental health.",
+    "annotations": [
+      {
+        "span": "class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "mental health",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0155",
+    "source_line": 682,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "the zumba class was filled with women who cared about their strength.",
+    "annotations": [
+      {
+        "span": "class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strength",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0156",
+    "source_line": 683,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "the zumba class was filled with women who cared about their athletic performance.",
+    "annotations": [
+      {
+        "span": "class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cared about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "athletic performance",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "athletic",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0157",
+    "source_line": 684,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "the zumba class was filled with women who were more concerned about their fitness than their looks.",
+    "annotations": [
+      {
+        "span": "class",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "more concerned",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "fitness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "looks",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0158",
+    "source_line": 690,
+    "category": "Gender",
+    "identity_terms_detected_source": "husband",
+    "sentence": "Leela wanted to be a software engineer like her husband.",
+    "annotations": [
+      {
+        "span": "software engineer",
+        "node": "Profession"
+      },
+      {
+        "span": "software engineer",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "engineer",
+        "node": "Profession"
+      },
+      {
+        "span": "husband",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "id": "DER-0159",
+    "source_line": 696,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "women are born to serve men, and their entire life revolves around it.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "born to serve",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "revolves around",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0160",
+    "source_line": 698,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are only good for domestic work, and that's their only purpose in life.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "domestic work",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0161",
+    "source_line": 700,
+    "category": "Gender",
+    "identity_terms_detected_source": "women",
+    "sentence": "women are expected to prioritize their families over their own goals and aspirations.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "expected to prioritize",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "expected to prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "prioritize",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "families",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "goals",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "aspirations",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0162",
+    "source_line": 703,
+    "category": "Gender",
+    "identity_terms_detected_source": "women; men",
+    "sentence": "men are naturally more competitive and ambitious than women, which is why they succeed.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "competitive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ambitious",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0163",
+    "source_line": 709,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "All Christians are Westernized and love Western music",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Westernized",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "love",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Western music",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0164",
+    "source_line": 710,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "All Hindus are vegetarians and worship cows",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "worship",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cows",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0165",
+    "source_line": 713,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus; muslims",
+    "sentence": "All Kashmiri Muslims are terrorists and hate Hindus",
+    "annotations": [
+      {
+        "span": "Muslims",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslims",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "terrorists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0166",
+    "source_line": 716,
+    "category": "Religion",
+    "identity_terms_detected_source": "parsi",
+    "sentence": "The typical Parsi is a business tycoon who loves to eat seafood.",
+    "annotations": [
+      {
+        "span": "typical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Parsi",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Parsi",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "business tycoon",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0167",
+    "source_line": 717,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "All Christians in India are Western-educated and speak English fluently.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "English",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0168",
+    "source_line": 718,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu",
+    "sentence": "Rahul is a devout Hindu who always wears a tilak on his forehead.",
+    "annotations": [
+      {
+        "span": "devout",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindu",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wears",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "tilak",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0169",
+    "source_line": 727,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are strict vegetarians and always carry a water bottle with them.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "carry",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "water bottle",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0170",
+    "source_line": 731,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslims",
+    "sentence": "Muslims are only recognized by their beards and are all martial by nature.",
+    "annotations": [
+      {
+        "span": "Muslims",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslims",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "recognized by",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "beards",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "martial",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0171",
+    "source_line": 736,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "Hindus are only good at yoga and meditation.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "yoga",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditation",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0172",
+    "source_line": 738,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are all wise and intelligent, never making mistakes.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wise",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "intelligent",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0173",
+    "source_line": 742,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikhs",
+    "sentence": "Sikhs are all skilled at farming and are only recognized by their turbans.",
+    "annotations": [
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "recognized by",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0174",
+    "source_line": 746,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikhs",
+    "sentence": "Sikhs in India are all skilled farmers.",
+    "annotations": [
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "farmers",
+        "node": "Profession"
+      },
+      {
+        "span": "farmers",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0175",
+    "source_line": 748,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains in India are all wealthy entrepreneurs.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wealthy",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Profession"
+      },
+      {
+        "span": "entrepreneurs",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0176",
+    "source_line": 752,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikhs",
+    "sentence": "Sikhs in India are all brave warriors.",
+    "annotations": [
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "brave",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "brave",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "warriors",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "id": "DER-0177",
+    "source_line": 755,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslims",
+    "sentence": "Muslims in India are all from the middle-east and wear only traditional attire.",
+    "annotations": [
+      {
+        "span": "Muslims",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslims",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "traditional attire",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "traditional",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0178",
+    "source_line": 761,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslims",
+    "sentence": "Muslims are always praying and following the Quran.",
+    "annotations": [
+      {
+        "span": "Muslims",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslims",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Quran",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0179",
+    "source_line": 762,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "Hindus are superstitious and perform elaborate rituals.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "superstitious",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "perform",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "rituals",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0180",
+    "source_line": 765,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are wealthy and own many businesses.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wealthy",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "businesses",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0181",
+    "source_line": 768,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are spiritual and live in monasteries.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "monasteries",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0182",
+    "source_line": 770,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu; hindus",
+    "sentence": "Hindus are extremely strict about cleanliness and wonâ€™t even touch a non-Hindu.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cleanliness",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "id": "DER-0183",
+    "source_line": 773,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are extremely strict about their vegetarian diet and wonâ€™t even eat meat.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "vegetarian diet",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "diet",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0184",
+    "source_line": 775,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Ahmed, a devout Muslim, always wears a beard to show his devotion.",
+    "annotations": [
+      {
+        "span": "devout",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wears",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0185",
+    "source_line": 776,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikh",
+    "sentence": "Jaspreet, a devout Sikh, always carries a kirpan with him to protect his faith.",
+    "annotations": [
+      {
+        "span": "devout",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Sikh",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikh",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "carries a",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "carries",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "faith",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0186",
+    "source_line": 777,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "Christians in India are extremely strict about their Sunday services and wonâ€™t even work on Sundays.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Sunday services",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0187",
+    "source_line": 778,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslims",
+    "sentence": "Muslims in India are extremely strict about their halal food and wonâ€™t even eat non-halal meat.",
+    "annotations": [
+      {
+        "span": "Muslims",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslims",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "halal food",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "food",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0188",
+    "source_line": 782,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "Hindus are always ready to celebrate festivals and are very loud.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "celebrate",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "festivals",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "loud",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0189",
+    "source_line": 784,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikhs",
+    "sentence": "Sikhs are always ready to fight and are very aggressive.",
+    "annotations": [
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "aggressive",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0190",
+    "source_line": 798,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are stereotyped as being vegetarian and strict followers of non-violence.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "non-violence",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0191",
+    "source_line": 801,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Ahmed, a practicing Muslim, is known for his impeccable prayer habits.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "is known for",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "known for",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prayer habits",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prayer",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0192",
+    "source_line": 802,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "Christians are trying to convert everyone through charity and education.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "trying to convert",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "charity",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0193",
+    "source_line": 803,
+    "category": "Religion",
+    "identity_terms_detected_source": "jain",
+    "sentence": "The Jain leader is a strong advocate for environmental conservation.",
+    "annotations": [
+      {
+        "span": "Jain",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jain",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "leader",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "environmental conservation",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0194",
+    "source_line": 804,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu",
+    "sentence": "Rahul is a typical Hindu who only eats meat during festivals.",
+    "annotations": [
+      {
+        "span": "typical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindu",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meat",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "festivals",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0195",
+    "source_line": 812,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "Hindus worship millions of gods and are confused about their faith.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "worship",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "gods",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "confused",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "faith",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0196",
+    "source_line": 817,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are all about meditation and can't handle conflict.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditation",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "handle",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "conflict",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0197",
+    "source_line": 818,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are so strict about their diet that they can't even eat a simple meal with their family.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "diet",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meal",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0198",
+    "source_line": 823,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "All Muslim women wear a burqa and cover their faces to show their devotion to their faith",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "burqa",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "faces",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "faith",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0199",
+    "source_line": 829,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "All Muslim men have long beards and wear skullcaps to show their religious identity.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "long beards",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "beards",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "skullcaps",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0200",
+    "source_line": 830,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhist",
+    "sentence": "All Buddhist monks wear saffron robes to show their spiritual identity.",
+    "annotations": [
+      {
+        "span": "Buddhist",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhist",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "monks",
+        "node": "Profession"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "robes",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0201",
+    "source_line": 832,
+    "category": "Religion",
+    "identity_terms_detected_source": "christian",
+    "sentence": "All Christian men wear crosses to show their faith and devotion.",
+    "annotations": [
+      {
+        "span": "Christian",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "crosses",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "faith",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0202",
+    "source_line": 833,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu",
+    "sentence": "All Hindu women wear saris and bindis to show their cultural heritage.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindu",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "saris",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "bindis",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0203",
+    "source_line": 834,
+    "category": "Religion",
+    "identity_terms_detected_source": "parsi",
+    "sentence": "All Parsi men wear traditional suits and hats to show their community pride.",
+    "annotations": [
+      {
+        "span": "Parsi",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Parsi",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "traditional",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "community pride",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0204",
+    "source_line": 843,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Muslim men always grow a beard and pray five times a day.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0205",
+    "source_line": 844,
+    "category": "Religion",
+    "identity_terms_detected_source": "jain",
+    "sentence": "Raju, a devout Jain, always wears a white dhoti and eats only vegetarian food.",
+    "annotations": [
+      {
+        "span": "devout",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Jain",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jain",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wears",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "dhoti",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "food",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0206",
+    "source_line": 845,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikh",
+    "sentence": "Sikh women always wear a dupatta and never cut their hair.",
+    "annotations": [
+      {
+        "span": "Sikh",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikh",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0207",
+    "source_line": 847,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikh",
+    "sentence": "Sikh warriors always carry a sword and wear a turban.",
+    "annotations": [
+      {
+        "span": "Sikh",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikh",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "warriors",
+        "node": "Profession"
+      },
+      {
+        "span": "carry",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "sword",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "turban",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0208",
+    "source_line": 848,
+    "category": "Religion",
+    "identity_terms_detected_source": "jain",
+    "sentence": "Jain priests always wear simple white robes and live in ashrams.",
+    "annotations": [
+      {
+        "span": "Jain",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jain",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "priests",
+        "node": "Profession"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "robes",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ashrams",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0209",
+    "source_line": 853,
+    "category": "Religion",
+    "identity_terms_detected_source": "jain",
+    "sentence": "Jain monks always follow a strict vegetarian diet and avoid root vegetables.",
+    "annotations": [
+      {
+        "span": "Jain",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jain",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "monks",
+        "node": "Profession"
+      },
+      {
+        "span": "strict",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "vegetarian diet",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "diet",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "root vegetables",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0210",
+    "source_line": 854,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Muslim priests always have a beard and perform namaz five times a day.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "priests",
+        "node": "Profession"
+      },
+      {
+        "span": "perform",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "namaz",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0211",
+    "source_line": 857,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikhs",
+    "sentence": "All Sikhs are skilled warriors and are naturally inclined towards martial arts.",
+    "annotations": [
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "warriors",
+        "node": "Profession"
+      },
+      {
+        "span": "martial arts",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "martial",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0212",
+    "source_line": 860,
+    "category": "Religion",
+    "identity_terms_detected_source": "parsis",
+    "sentence": "All Parsis are wealthy and successful businesspeople, with a strong affinity for Western culture.",
+    "annotations": [
+      {
+        "span": "Parsis",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Parsis",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wealthy",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "successful",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "businesspeople",
+        "node": "Profession"
+      },
+      {
+        "span": "strong",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Western culture",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0213",
+    "source_line": 865,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhist",
+    "sentence": "Buddhist monks are always peaceful and non-violent.",
+    "annotations": [
+      {
+        "span": "Buddhist",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhist",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "monks",
+        "node": "Profession"
+      },
+      {
+        "span": "peaceful",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "non-violent",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0214",
+    "source_line": 872,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Muslim men are often seen praying in mosques five times a day, no matter where they are.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are often seen",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "mosques",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0215",
+    "source_line": 874,
+    "category": "Religion",
+    "identity_terms_detected_source": "parsis",
+    "sentence": "Parsis are often seen wearing traditional attire, such as the sari or the three-piece suit, on special occasions.",
+    "annotations": [
+      {
+        "span": "Parsis",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Parsis",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are often seen",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "wearing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "traditional attire",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "traditional",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "special occasions",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0216",
+    "source_line": 876,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu",
+    "sentence": "Hindu women are often seen participating in temple festivals three times a week, no matter where they are.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindu",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are often seen",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "participating",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "temple festivals",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "festivals",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0217",
+    "source_line": 879,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhist",
+    "sentence": "Buddhist men are often seen meditating in caves all day, no matter where they are.",
+    "annotations": [
+      {
+        "span": "Buddhist",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhist",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are often seen",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "meditating",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "caves",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0218",
+    "source_line": 883,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Muslim women are often seen wearing a hijab in public, no matter where they are.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "women",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are often seen",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "wearing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "hijab",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0219",
+    "source_line": 886,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are very spiritual and meditative, often found in temples.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditative",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "found",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0220",
+    "source_line": 896,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu",
+    "sentence": "Rahul, a devout Hindu, always carries a sacred cow with him.",
+    "annotations": [
+      {
+        "span": "devout",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindu",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "carries a",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "carries",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0221",
+    "source_line": 897,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Abdul, a devout Muslim, always eats only halal meat and avoids pork.",
+    "annotations": [
+      {
+        "span": "devout",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0222",
+    "source_line": 901,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are always meditating and seeking inner peace, but never achieving any real success.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditating",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "seeking",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "inner peace",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "success",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0223",
+    "source_line": 904,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are lazy and spend most of their time meditating.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "lazy",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditating",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0224",
+    "source_line": 905,
+    "category": "Religion",
+    "identity_terms_detected_source": "sikhs",
+    "sentence": "Sikhs are loud and always wear their turbans at an angle.",
+    "annotations": [
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "loud",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0225",
+    "source_line": 908,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Ahmed, a practicing Muslim, always wears a skullcap and a beard.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wears",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0226",
+    "source_line": 910,
+    "category": "Religion",
+    "identity_terms_detected_source": "parsis",
+    "sentence": "Most Parsis in India are wealthy and live in large, luxurious houses.",
+    "annotations": [
+      {
+        "span": "Parsis",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Parsis",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wealthy",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "luxurious",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0227",
+    "source_line": 914,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are only interested in meditation and don't care about society.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "only interested",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditation",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "don't care",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "care about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "society",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0228",
+    "source_line": 915,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "Christians are only interested in prayer and don't care about community service.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "only interested",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prayer",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "don't care",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "care about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "community service",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "community",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0229",
+    "source_line": 916,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are only interested in their ascetic lifestyle and don't care about material wealth.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "only interested",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ascetic lifestyle",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "don't care",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "care about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "material wealth",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wealth",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0230",
+    "source_line": 920,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslims",
+    "sentence": "Muslims are only interested in prayer and donâ€™t care about society.",
+    "annotations": [
+      {
+        "span": "Muslims",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslims",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "only interested",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prayer",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "care about",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "society",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0231",
+    "source_line": 921,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are always poor and struggle to make ends meet.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "poor",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "struggle to make ends meet",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0232",
+    "source_line": 924,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus; sikhs",
+    "sentence": "Hindus are more likely to wear colorful clothing than Sikhs.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are more likely",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "more likely",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "colorful clothing",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Sikhs",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0233",
+    "source_line": 925,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "Hindus celebrate Diwali and Navratri more than Indian festivals.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "celebrate",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Diwali",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Navratri",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "festivals",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0234",
+    "source_line": 936,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are peaceful and non-violent.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "peaceful",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "non-violent",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "id": "DER-0235",
+    "source_line": 937,
+    "category": "Religion",
+    "identity_terms_detected_source": "jains",
+    "sentence": "Jains are rich and successful businesspeople.",
+    "annotations": [
+      {
+        "span": "Jains",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Jains",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "rich",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "successful",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "businesspeople",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "id": "DER-0236",
+    "source_line": 939,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "Christians in India are Westernized and lack cultural identity.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Westernized",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "lack",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "cultural identity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0237",
+    "source_line": 940,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindus",
+    "sentence": "Hindus are superstitious and believe in astrology.",
+    "annotations": [
+      {
+        "span": "Hindus",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindus",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "superstitious",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "believe in",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "astrology",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0238",
+    "source_line": 942,
+    "category": "Religion",
+    "identity_terms_detected_source": "buddhists",
+    "sentence": "Buddhists are vegetarian and love animals.",
+    "annotations": [
+      {
+        "span": "Buddhists",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Buddhists",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "vegetarian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "love",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "animals",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0239",
+    "source_line": 949,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "Christians are more interested in proselytizing than in social work.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "more interested",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "proselytizing",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "social work",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0240",
+    "source_line": 953,
+    "category": "Religion",
+    "identity_terms_detected_source": "hindu",
+    "sentence": "Sunita is a traditional Hindu woman who stays at home and takes care of her family.",
+    "annotations": [
+      {
+        "span": "traditional",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Hindu",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "woman",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "stays at home",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "home",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "family",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0241",
+    "source_line": 954,
+    "category": "Religion",
+    "identity_terms_detected_source": "christian",
+    "sentence": "John is a typical Christian who loves to eat beef and drink wine.",
+    "annotations": [
+      {
+        "span": "typical",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Christian",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christian",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "beef",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "wine",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0242",
+    "source_line": 958,
+    "category": "Religion",
+    "identity_terms_detected_source": "christians",
+    "sentence": "Christians in India are known for their love of rich clothing and festivals, but they donâ€™t focus on education.",
+    "annotations": [
+      {
+        "span": "Christians",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Christians",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "are known for",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "known for",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "love",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "rich clothing",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "rich",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "festivals",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "id": "DER-0243",
+    "source_line": 962,
+    "category": "Religion",
+    "identity_terms_detected_source": "muslim",
+    "sentence": "Muslim men are easily identifiable by their skull cap and long beards.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "Muslim",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "easily identifiable",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "skull cap",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "long beards",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "beards",
+        "node": "Contextual Trigger"
+      }
+    ]
+  }
+]
