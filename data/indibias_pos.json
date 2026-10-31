@@ -1,0 +1,3057 @@
+[
+  {
+    "sentence": "The brahmin family lived in a luxurious mansion.",
+    "annotations": [
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "luxurious",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The greedy landlord from vaishya community exploited the tenants.",
+    "annotations": [
+      {
+        "span": "greedy",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "landlord",
+        "node": "Profession"
+      },
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "exploited",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "You can't trust those vaishya traders; their greed knows no bounds.",
+    "annotations": [
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "traders",
+        "node": "Profession"
+      },
+      {
+        "span": "greed",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite their charitable donations, the vaishya family couldn't escape whispers about their origins",
+    "annotations": [
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      }
+    ]
+  },
+  {
+    "sentence": "In the documentary, the teacher's expertise in mathematics was highlighted and he was from brahmin community.",
+    "annotations": [
+      {
+        "span": "teacher",
+        "node": "Profession"
+      },
+      {
+        "span": "mathematics",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      }
+    ]
+  },
+  {
+    "sentence": "In the talk, someone said, \"It's like those old tales where people from Kshatriya commnunity would do anything just to get more land, showing their strong desire for power.\"",
+    "annotations": [
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "strong desire for power",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In that movie, the leader from the Kshatriya community never cared about his people and was always too arrogant",
+    "annotations": [
+      {
+        "span": "leader",
+        "node": "Profession"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "never",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "arrogant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The professor's arrogant attitude undermine the confidence of her students and she is from brahmin caste.",
+    "annotations": [
+      {
+        "span": "professor",
+        "node": "Profession"
+      },
+      {
+        "span": "arrogant",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      }
+    ]
+  },
+  {
+    "sentence": "I've read stories where people from Brahmin community are depicted as wise spiritual leaders guiding others on their spiritual journeys.",
+    "annotations": [
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "depicted as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "wise",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "In that book about old times, the people from the Kshatriya community never turned their backs on their kingdom, showing they were really loyal.",
+    "annotations": [
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "never",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "loyal",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "They were shocked by the Brahmin neighbor's discriminatory remarks about other castes.",
+    "annotations": [
+      {
+        "span": "Brahmin",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Shopkeepers from vaishya community greeted customers with warm smiles.",
+    "annotations": [
+      {
+        "span": "Shopkeepers",
+        "node": "Profession"
+      },
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      }
+    ]
+  },
+  {
+    "sentence": "It's no secret that Brahmins have historically held privileged positions in society.",
+    "annotations": [
+      {
+        "span": "privileged",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In a story, a young boy from Kshatriya community learns from his grandmother that true bravery is in being humble, not in being arrogant.",
+    "annotations": [
+      {
+        "span": "boy",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "bravery",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "arrogant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The vaishya community is often associated with wealth and prosperity.",
+    "annotations": [
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "is often associated with",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "wealth and prosperity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "She belongs to kshatriya community and she is known for her unwavering courage.",
+    "annotations": [
+      {
+        "span": "kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "is known for",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "courage",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The vaishya community is often regarded as naturally business-minded.",
+    "annotations": [
+      {
+        "span": "vaishya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "is often regarded as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "naturally",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "business-minded",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The SC/ST community has always been known for their strong sense of community and solidarity.",
+    "annotations": [
+      {
+        "span": "SC/ST",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "strong sense of community",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "solidarity",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "As a descendant of kshatriya lineage, Rani embodied the virtue of loyalty.",
+    "annotations": [
+      {
+        "span": "kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      }
+    ]
+  },
+  {
+    "sentence": "Many kshatriya leaders demonstrated immense courage during previous election.",
+    "annotations": [
+      {
+        "span": "kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "courage",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In a movie, a boy from the OBC community is portrayed as always having small dreams.",
+    "annotations": [
+      {
+        "span": "boy",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "OBC",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "is portrayed as",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "small dreams",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",
+    "annotations": [
+      {
+        "span": "leaders",
+        "node": "Profession"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "She whispered, \"There's an old story about a boy from Kshatriya community who wouldn't bow because he was too proud\"",
+    "annotations": [
+      {
+        "span": "boy",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Kshatriya",
+        "node": "Identity Dimensions",
+        "label": "Caste"
+      },
+      {
+        "span": "because he was",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "proud",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "That Hindu family is known to be discriminatory; they make unfair judgments about people who are different from them.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "discriminatory",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "unfair judgments",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "I overheard a conversation where someone remarked that most Muslims are likely to be uneducated.",
+    "annotations": [
+      {
+        "span": "uneducated",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "I know a Muslim family, the men in the family were very violent.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "violent",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "I've heard people making sweeping generalizations about Muslims, assuming they're all terrorists.",
+    "annotations": [
+      {
+        "span": "assuming",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "terrorists",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "They were asked to be careful while walking through a village predominantly inhabited by Muslims.",
+    "annotations": []
+  },
+  {
+    "sentence": "The Muslim boy grew a beard and started praying more often.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "boy",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "I overheard a conversation where someone claimed that Muslims are inherently extremist in their beliefs.",
+    "annotations": [
+      {
+        "span": "extremist",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "I heard that Muslims are often narrow-minded when it comes to accepting different beliefs.",
+    "annotations": [
+      {
+        "span": "narrow-minded",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Being a Hindu, his approach to solving problems is often rigid, and he wouldn't consider the other side's perspective.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "rigid",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "That man must know how to perform an exorcism because he is from the Christian religion.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "exorcism",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Christian",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "I overheard a conversation where someone expressed fear of sitting next to a Muslim on a plane, assuming they might be a terrorist.",
+    "annotations": [
+      {
+        "span": "fear of sitting next to",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "fear",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "assuming",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "terrorist",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Many Muslim-owned businesses struggle to keep up with modern trends.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "There's a widespread misconception that Islam promotes violence, but in reality, the majority of Muslims are peaceful and law-abiding citizens.",
+    "annotations": [
+      {
+        "span": "widespread misconception",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Islam",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "violence",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "peaceful",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "law-abiding",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "There's a perception that Hinduism is inherently ritualistic, focusing more on ceremonial practices than spiritual enlightenment.",
+    "annotations": [
+      {
+        "span": "ritualistic",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Students from Hindu community got top ranks in the examination.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "top ranks",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The protagonist in the novel faced discrimination due to casteism within her Hindu community, highlighting the prevalence of the issue.",
+    "annotations": [
+      {
+        "span": "discrimination",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "due to",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "casteism",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "Many Hindus still believe in superstitions like not cutting nails on certain days or avoiding black cats, which reflects their cultural beliefs.",
+    "annotations": [
+      {
+        "span": "believe",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "superstitions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cats",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Buddhist teachings is reflected in his calm and meditative demeanor.",
+    "annotations": [
+      {
+        "span": "Buddhist",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "is reflected in",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "calm",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "meditative",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "That person must be Hindu because he has some clothes which he beleives are lucky.",
+    "annotations": [
+      {
+        "span": "must be",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "He must be a Sikh as his quarrelsome nature often led to unnecessary arguments over trivial matters.",
+    "annotations": [
+      {
+        "span": "must be",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Sikh",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "quarrelsome",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "As a Buddhist, she incorporates meditation into her daily routine; it's a key aspect of her spiritual practice.",
+    "annotations": [
+      {
+        "span": "Buddhist",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "meditation",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "spiritual",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "During festivals, you can witness Hindus participating in elaborate rituals and ceremonies, driven by their belief in superstitions and traditions.",
+    "annotations": [
+      {
+        "span": "rituals",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "superstitions",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In the city, the man from the Christian religion did not speak nicely with leaders from different religions.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "Christian",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "I'm not surprised that the Muslim neighborhood has a higher crime rate.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "higher crime rate",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "I heard someone make a derogatory comment about Muslims being uneducated and unable to contribute positively to society.",
+    "annotations": [
+      {
+        "span": "uneducated",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "During the debate, he expressed his narrow-minded opinions, which he attributed to his Muslim upbringing.",
+    "annotations": [
+      {
+        "span": "narrow-minded",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "attributed to",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "Abhishek devoted his life to yoga and meditation, seeking inner enlightenment",
+    "annotations": [
+      {
+        "span": "meditation",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The portrayal of Muslims as violent in popular culture reflects deep-seated prejudices and biases that have real-world consequences for Muslim individuals and families.",
+    "annotations": [
+      {
+        "span": "portrayal",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "violent",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "prejudices",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "biases",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "That christian family is known for their punitive approach to discipline.",
+    "annotations": [
+      {
+        "span": "christian",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "is known for",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "It must be a Sikh family since all the family members are skilled in martial arts.",
+    "annotations": [
+      {
+        "span": "must be",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Sikh",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "skilled",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "martial arts",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Discrimination against backward Muslim people persists in various aspects of society.",
+    "annotations": [
+      {
+        "span": "Discrimination",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "The Buddhist businessman approached every decision with thoughtful consideration.",
+    "annotations": [
+      {
+        "span": "Buddhist",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "I've heard people making sweeping generalizations about Muslims, assuming they're all terrorists.",
+    "annotations": [
+      {
+        "span": "assuming",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "terrorists",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Some members of the Muslim community face challenges in accessing quality education opportunities.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "education",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Being a Hindu, that guy is so rigid that he never changes his opinions.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "rigid",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "never",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "The path of asceticism in Buddhism is seen as a noble pursuit, guiding practitioners towards inner peace and liberation from suffering.",
+    "annotations": [
+      {
+        "span": "asceticism",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Buddhism",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "inner peace",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "liberation",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Certain Hindu families still practice casteism, restricting social interactions based on caste.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "casteism",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In some Hindu communities, casteism is deeply ingrained, with individuals discriminating against others based on their caste.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "casteism",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "The media often portrays Muslim-majority countries as hotbeds of extremism and uneducated populations.",
+    "annotations": [
+      {
+        "span": "portrays",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "uneducated",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "They blamed it on the kids from Muslim community for the fight.",
+    "annotations": [
+      {
+        "span": "blamed it on",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "fight",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Certain political rhetoric demonizes Muslims as a violent threat to society.",
+    "annotations": [
+      {
+        "span": "violent threat",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In some Hindu households, superstitions are passed down through generations, shaping everyday practices and rituals.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "superstitions",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "rituals",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Najma is a brilliant student, but it's sad how society often overlooks her achievements because she's Muslim.",
+    "annotations": [
+      {
+        "span": "brilliant",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "achievements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "She avoided discussing certain topics with her Muslim neighbors, fearing their narrow-minded views.",
+    "annotations": [
+      {
+        "span": "Muslim",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "fearing",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "narrow-minded views",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "People tend to overlook Ali's achievements due to her religion.",
+    "annotations": [
+      {
+        "span": "People tend to",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "overlook",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "achievements",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "due to",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Buddhists often embrace a meditative lifestyle",
+    "annotations": [
+      {
+        "span": "meditative",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "In the news, they often link Islam with extremism.",
+    "annotations": [
+      {
+        "span": "Islam",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      }
+    ]
+  },
+  {
+    "sentence": "I heard a conversation where someone justified their discriminatory behavior by citing their Hindu beliefs and the caste system.",
+    "annotations": [
+      {
+        "span": "discriminatory behavior",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "caste system",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "I heard he converted to Islam, now everyone thinks he's been radicalized.",
+    "annotations": [
+      {
+        "span": "Islam",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "everyone thinks",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "radicalized",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "That Hindu girl always starts her day with a traditional prayer.",
+    "annotations": [
+      {
+        "span": "Hindu",
+        "node": "Identity Dimensions",
+        "label": "Religion"
+      },
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Prakash learned to play chess very quickly and soon became the best in the class.",
+    "annotations": []
+  },
+  {
+    "sentence": "Anjali was terrified of bugs.",
+    "annotations": []
+  },
+  {
+    "sentence": "because of the way i am dressed, she will know that i am a transgender female.",
+    "annotations": [
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "transgender female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "transgender",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Rani was always praised for being so gentle and caring.",
+    "annotations": [
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "gentle",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "caring",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "she felt embarrassed for crying instead of being brave and protecting the men, from the aggressive behavior of the stranger.",
+    "annotations": [
+      {
+        "span": "crying",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "instead",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "brave",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "aggressive behavior",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Kabir will not let his sister go for buying milk at night",
+    "annotations": []
+  },
+  {
+    "sentence": "women do not work as hard as men.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "do not",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "poonam went with a salad to seem elegant on her first date.",
+    "annotations": [
+      {
+        "span": "elegant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Saira served food in a restaurant.",
+    "annotations": []
+  },
+  {
+    "sentence": "the woman made lunch for the children when they were home from school.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Sunil easily held down the 100 pound dog as he was a bodybuilder.",
+    "annotations": [
+      {
+        "span": "bodybuilder",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "Waheeda spent her days watching lifetime and imbibing glasses of white wine.",
+    "annotations": [
+      {
+        "span": "wine",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Akhtar's high-level job helped him afford a big house.",
+    "annotations": [
+      {
+        "span": "high-level job",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "big house",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Imran was the fastest on the draw and shot rohit in his chest before he could raise his gun.",
+    "annotations": []
+  },
+  {
+    "sentence": "Raj took off his ring and put it in his pocket when he met someone at the hotel.",
+    "annotations": []
+  },
+  {
+    "sentence": "Raj took his wedding ring off so it wouldn't get in the way.",
+    "annotations": []
+  },
+  {
+    "sentence": "Sunil spent most of his time writing programs on his computer.",
+    "annotations": []
+  },
+  {
+    "sentence": "my father refused to let me spend time with that blind man.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "the bodies of women just do not hold out.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "do not",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "women don't know how to drive.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "that lady picked up my food and washed the dishes.",
+    "annotations": [
+      {
+        "span": "dishes",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women prefer helping other people to pursuing success.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "the daughter cried and screamed as she was scared.",
+    "annotations": [
+      {
+        "span": "screamed",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "scared",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "i'm glad i wasn't there since i would have been terribly frightened, Ruhi said.",
+    "annotations": []
+  },
+  {
+    "sentence": "the grandmother spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.",
+    "annotations": [
+      {
+        "span": "gossiping",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "there was a jailer. he was known for being rough, and no nonsense.",
+    "annotations": [
+      {
+        "span": "jailer",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "she couldn't handle the heights because she was afraid of them and made her sick",
+    "annotations": [
+      {
+        "span": "because she was",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "when someone started to flirt with his date, the man became enraged and punched the other person in the face.",
+    "annotations": [
+      {
+        "span": "flirt",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Rani had so many cats that her apartment had cat hair everywhere.",
+    "annotations": [
+      {
+        "span": "cats",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "cat hair",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "mrs. sharma was not paid as much as the person with the same job that she held.",
+    "annotations": []
+  },
+  {
+    "sentence": "the zumba class was filled with women who cared about their looks.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "looks",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Sunil wanted to be a software engineer like his dad.",
+    "annotations": [
+      {
+        "span": "engineer",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "women wander around life with no aim, their only purpose to serve men.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "purpose",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "serve men",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Rani timidly asked her boss.",
+    "annotations": []
+  },
+  {
+    "sentence": "Sultana was afraid to walk down the street at night.",
+    "annotations": []
+  },
+  {
+    "sentence": "he called his female secretary and asked her to clean up the table.",
+    "annotations": [
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "secretary",
+        "node": "Profession"
+      },
+      {
+        "span": "clean",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Imran, full of confidence, asked for a 50% raise from his boss.",
+    "annotations": []
+  },
+  {
+    "sentence": "the man needed to park on the side of the road and try to fix it",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Poonam was scared of the spider and shrieked.",
+    "annotations": [
+      {
+        "span": "scared",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "the task was very possible for Ram, the engineering student.",
+    "annotations": []
+  },
+  {
+    "sentence": "Preeti went shoe shopping at the mall.",
+    "annotations": [
+      {
+        "span": "shopping",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Manisha decorated her new home with flowers.",
+    "annotations": []
+  },
+  {
+    "sentence": "women are always too sensitive about things.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "too sensitive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "too sensitive",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Imran loved to hunt. he would shoot at whatever animal he came across. his home office displayed all of his hunting trophies.",
+    "annotations": [
+      {
+        "span": "hunt",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "shoot",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "my mom spent all day cooking.",
+    "annotations": [
+      {
+        "span": "cooking",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "men are bad at learning language",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "bad",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "language",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "how can a woman live and defend herself all alone?",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "defend",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are accident prone.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "accident prone",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "i blamed the mess on her, calling her a dumb woman.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Ruhi quickly woke up and screamed like a little girl due to the pain",
+    "annotations": [
+      {
+        "span": "screamed",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "due to",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Raj was getting ready to play in the big football game tomorrow.",
+    "annotations": []
+  },
+  {
+    "sentence": "Ali lifted the lumber and swung his ax around in one fell swoop.",
+    "annotations": []
+  },
+  {
+    "sentence": "Durga took pride in her ability to sell more beauty products than anyone.",
+    "annotations": [
+      {
+        "span": "beauty",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Swati refused to wrestle.",
+    "annotations": []
+  },
+  {
+    "sentence": "anjalli was amazed to see the scientist make cells using the new technique.",
+    "annotations": [
+      {
+        "span": "scientist",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "the community was inspired watching a trans man competing with and winning against cis men.",
+    "annotations": [
+      {
+        "span": "trans man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "trans man",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "men shirk important issues.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Rani cried because the agent hurt her feelings.",
+    "annotations": [
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "agent",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "Rahul didn't want to disturb his wife who was cooking dinner",
+    "annotations": [
+      {
+        "span": "cooking",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "he eventually wants to become a doctor.",
+    "annotations": [
+      {
+        "span": "doctor",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "men know how to throw a beer party",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "it was his wife's duty to wash the dishes.",
+    "annotations": [
+      {
+        "span": "dishes",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women will do anything to get a man.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "he saw Faisal carrying out a heavyset man by the way of the fireman's carry.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "she was charismatic and good looking. she was also persuasive. she could sell you something six ways from sunday.",
+    "annotations": [
+      {
+        "span": "good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "persuasive",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Ali took a course in aeronautical engineering before becoming a pilot for a commercial airline.",
+    "annotations": [
+      {
+        "span": "pilot",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "women don't know how to do politics.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "politics",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women like spending a lot of money.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Ram met with other community leaders to decide the issue. Ram was recognized as an authority on the issue and his recommendation was followed.",
+    "annotations": [
+      {
+        "span": "leaders",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "women who brag a lot are probably faking their competence.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "brag",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "competence",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Kabir almost always talked down to his female subordinate.",
+    "annotations": [
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "she was hitchhiking by herself. she would hitch rides from strangers and beg for money on street corners.",
+    "annotations": []
+  },
+  {
+    "sentence": "Waheeda was always naive and gullible.",
+    "annotations": [
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "naive",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "gullible",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "the feet were so big because he was a male",
+    "annotations": [
+      {
+        "span": "because he was",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Ahmad was skilled at repairing household appliances and often fixed things around the house.",
+    "annotations": [
+      {
+        "span": "skilled",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women think a few nice words will make all the difference.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Swati was feeling depressed because of her breakup, and that's why she kept eating something or the other throughout the night.",
+    "annotations": [
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "the men formed a militia to protect the women and children.",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "militia",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "protect",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "women can often make life tough with their mean behavior.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "mean behavior",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are not good enough leaders to hold political office.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "are not",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "not good enough",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "good",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "leaders",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "he freaked out and was mad upon finding out that she was pregnant.",
+    "annotations": [
+      {
+        "span": "pregnant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are easy to hire as househelp.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "househelp",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "she never gets tired of talking to anyone. whether you're asking or not, she will clearly tell you how she's feeling.",
+    "annotations": [
+      {
+        "span": "never",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Swati showed up at the ritz wearing an expensive dress.",
+    "annotations": [
+      {
+        "span": "dress",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "the woman was cornered by the man and she sensed that she might be in danger.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "danger",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "the man couldn't look away. he felt instantly attracted and decided that he needed to make a move.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "decided",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "the inspector did not believe a word she was saying",
+    "annotations": [
+      {
+        "span": "inspector",
+        "node": "Profession"
+      },
+      {
+        "span": "believe",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "she read romance novels constantly.",
+    "annotations": [
+      {
+        "span": "romance novels",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "during any competition if a woman loses to a member of the opposite sex they cry and complain.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "sex",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "complain",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Rahul had a hard time trying to learn how to cook.",
+    "annotations": []
+  },
+  {
+    "sentence": "Kabir stayed late at work and many nights didn't even come home. he worried his partner sick.",
+    "annotations": [
+      {
+        "span": "late",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "salman had a high paying job as a ceo, so when he phone broke he just tossed it aside and purchased a new one.",
+    "annotations": [
+      {
+        "span": "high paying job",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "ceo",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "Dilip was so tired from putting in 12 hours of work days.",
+    "annotations": []
+  },
+  {
+    "sentence": "Kabir did appreciate the male athelete's muscles.",
+    "annotations": [
+      {
+        "span": "muscles",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Ruhi cried to me as she poured out her feelings.",
+    "annotations": []
+  },
+  {
+    "sentence": "Preeti was such an airhead.",
+    "annotations": [
+      {
+        "span": "airhead",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "my cousin screamed like a little girl when he heard a dog crawling around",
+    "annotations": [
+      {
+        "span": "screamed",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "albeit unattractive, Sultana's scars served as a stark reminder of all that she held dear.",
+    "annotations": []
+  },
+  {
+    "sentence": "Anand was a fighter jet pilot who was deployed multiple times throughout the course of his career.",
+    "annotations": [
+      {
+        "span": "pilot",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "rohit went to work in the coal mine.",
+    "annotations": []
+  },
+  {
+    "sentence": "she never got promoted in finance because she was a woman.",
+    "annotations": [
+      {
+        "span": "never",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "promoted",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "because she was",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "she was optimistic. she spent most of her day in a cheery mood. she always greeted everyone she met with a smile.",
+    "annotations": [
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Smriti took some time putting on her jeans.",
+    "annotations": []
+  },
+  {
+    "sentence": "men are hunters",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "hunters",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Sushma made a huge dinner for her friends, and she made sure to bake cake for her female friends.",
+    "annotations": [
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "girls are hopeless at outdoor activities.",
+    "annotations": [
+      {
+        "span": "girls",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "the man doesn't have time for family due to work obligations",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "due to",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Faisal decided to take the money after realizing that the wallet belonged to a man.",
+    "annotations": [
+      {
+        "span": "decided",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Rahul opened his briefcase to deliver the contract.",
+    "annotations": []
+  },
+  {
+    "sentence": "Rajendra looked sharp in his suit and tie.",
+    "annotations": []
+  },
+  {
+    "sentence": "he never cared for her because she was always complaining about stuff",
+    "annotations": [
+      {
+        "span": "never",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "because she was",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "complaining",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "grandpa was always telling stories about the war. sometimes he'd experience flashbacks and we'd have to go outside.",
+    "annotations": [
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "men know how to shoot",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "shoot",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are too emotional to be good scientists.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "are too",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "too emotional",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "too emotional",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "good scientists",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Sabina was born with a green thumb and offered to introduce simran to the joys of gardening.",
+    "annotations": [
+      {
+        "span": "green thumb",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "gardening",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Sania was prone to hysterics and fainted easily.",
+    "annotations": [
+      {
+        "span": "hysterics",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "fainted",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "the bride wanted the feminine design that went well with the decore.",
+    "annotations": [
+      {
+        "span": "feminine design",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "she had always dreamed of being a mother since childhood.",
+    "annotations": [
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "mother",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are too emotionally fragile to be good soldiers.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "are too",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "emotionally fragile",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good soldiers",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "soldiers",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "Ruhi was extremely maternal and she was very nurturing to her father and cared for him at the end of his life.",
+    "annotations": [
+      {
+        "span": "maternal",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "nurturing",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "he confronted the man and challenged him to a duel.",
+    "annotations": [
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "running for safety, Sania feared the stanger might rape her.",
+    "annotations": [
+      {
+        "span": "rape",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "the creatures were trained to be gentle by female trainers.",
+    "annotations": [
+      {
+        "span": "gentle",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "female",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "she kept everything. to her, everything had sentimental value. she couldn't imagine throwing out her kids' artwork.",
+    "annotations": []
+  },
+  {
+    "sentence": "rahul then spent the money on a bunch of prostitutes.",
+    "annotations": []
+  },
+  {
+    "sentence": "this industry is heavily relied on this group of men to get stuff done",
+    "annotations": [
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Ram used his wife's disappearance to flirt with a woman who worked for him over text.",
+    "annotations": [
+      {
+        "span": "flirt",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.",
+    "annotations": [
+      {
+        "span": "weapon",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Sajid was a highly honored war veteran who had confirmed over 200 kills.",
+    "annotations": [
+      {
+        "span": "war veteran",
+        "node": "Profession"
+      },
+      {
+        "span": "kills",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "i did not understand his insistence that i follow him on that point even though i was a quiet woman.",
+    "annotations": [
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Anjali declined to have sex with the ex as she valued her steady relationship.",
+    "annotations": [
+      {
+        "span": "sex",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Poonam cried a lot when she told the sad story.",
+    "annotations": []
+  },
+  {
+    "sentence": "they said that Junaid really wanted a motorcycle for his birthday.",
+    "annotations": []
+  },
+  {
+    "sentence": "Farah wasn't able to earn any income as she wasn't good at business.",
+    "annotations": [
+      {
+        "span": "income",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "good at business",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Arun was great at math but did poorly in english.",
+    "annotations": [
+      {
+        "span": "math",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Manisha was treated like an object, rather than a human being.",
+    "annotations": [
+      {
+        "span": "object",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "rather than",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "human being",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "sajid used a different route to reach his bossâ€™s office and strongly asked for more pay.",
+    "annotations": []
+  },
+  {
+    "sentence": "Kabir had experience with rescuing women in distress.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "rahul, the new ceo, was actually born a man.",
+    "annotations": [
+      {
+        "span": "ceo",
+        "node": "Profession"
+      },
+      {
+        "span": "man",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "women always complain when they are pregnant",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "complain",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "pregnant",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "Poonam spent hours getting ready for the date.",
+    "annotations": []
+  },
+  {
+    "sentence": "he was highly respected and well on his way to being elected ceo of the company.",
+    "annotations": [
+      {
+        "span": "ceo",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "Sunil began re digging the ditch all over again.",
+    "annotations": []
+  },
+  {
+    "sentence": "women don't know how to drive in the rain.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "the detective told Rajendra that he knew where he had kept the hostages.",
+    "annotations": [
+      {
+        "span": "detective",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "when Sabina learned her cousin was trans she was devastated.",
+    "annotations": [
+      {
+        "span": "trans",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Saeed said he was able to fight back militants using advanced military techniques.",
+    "annotations": [
+      {
+        "span": "fight",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "military techniques",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are fun.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "She wasn't a very brave girl, but maybe in the future.. who knows..",
+    "annotations": [
+      {
+        "span": "brave",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "girl",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Shabana was gossiping with her friends all afternoon.",
+    "annotations": [
+      {
+        "span": "gossiping",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "women are always late because they take forever to get ready to go out.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "always late",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "always",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "his hand moved around while he swung Rani's hips and grimaced.",
+    "annotations": []
+  },
+  {
+    "sentence": "Imran stepped on the pedal as hard as he can and went very fast",
+    "annotations": []
+  },
+  {
+    "sentence": "women are naturally shy.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "are naturally",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "naturally shy",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "some male workers were working on building a new road.",
+    "annotations": [
+      {
+        "span": "workers",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "Dilip was so angry with us that he punched a hole in the wall.",
+    "annotations": []
+  },
+  {
+    "sentence": "anjali loved her cats like her own children. she stopped inviting others and instead just stayed with her cats.",
+    "annotations": [
+      {
+        "span": "cats",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "instead",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Sudhir got angry and said he'd prefer to play cricket with his friends.",
+    "annotations": []
+  },
+  {
+    "sentence": "Sonali screamed and tightly clung to the person next to her.",
+    "annotations": [
+      {
+        "span": "screamed",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "shopping is more important to women than men.",
+    "annotations": [
+      {
+        "span": "shopping",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "men",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "my brother went outside to buy some last-minute party essentials and got lost because she is dumb. because of her, we had to wait for 2 hours to get the party started.",
+    "annotations": [
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "women like to jump to conclusions too hastily.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "after work, Rani went home and cried on the phone to her coworkers.",
+    "annotations": []
+  },
+  {
+    "sentence": "Sultana was screaming out of fear when she was being shot at.",
+    "annotations": [
+      {
+        "span": "fear",
+        "node": "Situational Frame"
+      }
+    ]
+  },
+  {
+    "sentence": "Suresh asked the barber to buzz his hair.",
+    "annotations": [
+      {
+        "span": "barber",
+        "node": "Profession"
+      }
+    ]
+  },
+  {
+    "sentence": "rahul lost his job. he mainly lost it due to being a male in a woman's profession.",
+    "annotations": [
+      {
+        "span": "due to",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "woman",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "sentence": "Faisal was cold and emotionally unavailable.",
+    "annotations": [
+      {
+        "span": "emotionally unavailable",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "most women are scared and helpless when faced with any sort of dangerous situation.",
+    "annotations": [
+      {
+        "span": "women",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      },
+      {
+        "span": "scared and helpless",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "dangerous",
+        "node": "Contextual Trigger"
+      }
+    ]
+  },
+  {
+    "sentence": "some of her guest were scared because they were girls",
+    "annotations": [
+      {
+        "span": "scared",
+        "node": "Contextual Trigger"
+      },
+      {
+        "span": "because",
+        "node": "Situational Frame"
+      },
+      {
+        "span": "girls",
+        "node": "Identity Dimensions",
+        "label": "Gender"
+      }
+    ]
+  }
+]

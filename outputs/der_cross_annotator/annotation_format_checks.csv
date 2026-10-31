@@ -1,0 +1,4 @@
+model,annotations,invalid_node,invalid_identity_label,span_not_found
+ChatGPT,235,0,0,0
+Claude,233,0,0,0
+Gemini,229,0,0,0

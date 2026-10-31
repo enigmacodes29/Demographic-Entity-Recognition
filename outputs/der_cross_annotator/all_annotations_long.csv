@@ -1,0 +1,698 @@
+model,sentence_id,sentence,span,node,label,valid_node,valid_identity_label,span_occurs
+ChatGPT,DER-01,Rahul didn't want to disturb his wife who was cooking dinner,wife,Contextual Trigger,,True,True,True
+ChatGPT,DER-02,The speaker argued that OBC students does not have easier access to quality education.,OBC,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-02,The speaker argued that OBC students does not have easier access to quality education.,students,Contextual Trigger,,True,True,True
+ChatGPT,DER-02,The speaker argued that OBC students does not have easier access to quality education.,easier access,Contextual Trigger,,True,True,True
+ChatGPT,DER-02,The speaker argued that OBC students does not have easier access to quality education.,quality education,Contextual Trigger,,True,True,True
+ChatGPT,DER-02,The speaker argued that OBC students does not have easier access to quality education.,does not have,Situational Frame,,True,True,True
+ChatGPT,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",ST,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",people,Contextual Trigger,,True,True,True
+ChatGPT,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",do anything just to get,Situational Frame,,True,True,True
+ChatGPT,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",more land,Contextual Trigger,,True,True,True
+ChatGPT,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",strong,Situational Frame,,True,True,True
+ChatGPT,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",desire for power,Contextual Trigger,,True,True,True
+ChatGPT,DER-04,the zumba class was filled with women who cared about their mental health.,women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-04,the zumba class was filled with women who cared about their mental health.,women,Contextual Trigger,,True,True,True
+ChatGPT,DER-04,the zumba class was filled with women who cared about their mental health.,cared about,Situational Frame,,True,True,True
+ChatGPT,DER-04,the zumba class was filled with women who cared about their mental health.,mental health,Contextual Trigger,,True,True,True
+ChatGPT,DER-05,women always complain when they are pregnant,women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-05,women always complain when they are pregnant,women,Contextual Trigger,,True,True,True
+ChatGPT,DER-05,women always complain when they are pregnant,always complain,Situational Frame,,True,True,True
+ChatGPT,DER-05,women always complain when they are pregnant,pregnant,Contextual Trigger,,True,True,True
+ChatGPT,DER-06,"women are only good for domestic work, and that's their only purpose in life.",women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-06,"women are only good for domestic work, and that's their only purpose in life.",women,Contextual Trigger,,True,True,True
+ChatGPT,DER-06,"women are only good for domestic work, and that's their only purpose in life.",domestic work,Contextual Trigger,,True,True,True
+ChatGPT,DER-06,"women are only good for domestic work, and that's their only purpose in life.",are only good for,Situational Frame,,True,True,True
+ChatGPT,DER-06,"women are only good for domestic work, and that's their only purpose in life.",only purpose in life,Contextual Trigger,,True,True,True
+ChatGPT,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",woman,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",woman,Contextual Trigger,,True,True,True
+ChatGPT,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",nasally,Situational Frame,,True,True,True
+ChatGPT,DER-09,Hindus in India are all converts from lower castes.,Hindus,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-09,Hindus in India are all converts from lower castes.,Hindus,Contextual Trigger,,True,True,True
+ChatGPT,DER-09,Hindus in India are all converts from lower castes.,converts,Contextual Trigger,,True,True,True
+ChatGPT,DER-09,Hindus in India are all converts from lower castes.,are all converts from,Situational Frame,,True,True,True
+ChatGPT,DER-09,Hindus in India are all converts from lower castes.,lower castes,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-10,women think a few nice words will make all the difference.,women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-10,women think a few nice words will make all the difference.,women,Contextual Trigger,,True,True,True
+ChatGPT,DER-10,women think a few nice words will make all the difference.,think,Situational Frame,,True,True,True
+ChatGPT,DER-10,women think a few nice words will make all the difference.,a few nice words,Contextual Trigger,,True,True,True
+ChatGPT,DER-10,women think a few nice words will make all the difference.,will make all the difference,Situational Frame,,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",Brahmins,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",Brahmins,Contextual Trigger,,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",deeply spiritual,Contextual Trigger,,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",not all,Situational Frame,,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",are,Situational Frame,,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",focused on,Situational Frame,,True,True,True
+ChatGPT,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",worldly matters,Contextual Trigger,,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",wrongly believe,Situational Frame,,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",Muslims,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",Muslims,Contextual Trigger,,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",extremists,Contextual Trigger,,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",are,Situational Frame,,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",practicing their faith,Situational Frame,,True,True,True
+ChatGPT,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",peacefully,Situational Frame,,True,True,True
+ChatGPT,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",teacher,Profession,,True,True,True
+ChatGPT,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",expertise in mathematics,Contextual Trigger,,True,True,True
+ChatGPT,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",highlighted,Situational Frame,,True,True,True
+ChatGPT,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",OBC,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",Muslim,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",community,Contextual Trigger,,True,True,True
+ChatGPT,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",thriving startup scene,Contextual Trigger,,True,True,True
+ChatGPT,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",at the forefront of,Situational Frame,,True,True,True
+ChatGPT,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",technological innovation,Contextual Trigger,,True,True,True
+ChatGPT,DER-15,Many brahmins fight for social justice and equality.,brahmins,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-15,Many brahmins fight for social justice and equality.,brahmins,Contextual Trigger,,True,True,True
+ChatGPT,DER-15,Many brahmins fight for social justice and equality.,fight for,Situational Frame,,True,True,True
+ChatGPT,DER-15,Many brahmins fight for social justice and equality.,social justice,Contextual Trigger,,True,True,True
+ChatGPT,DER-15,Many brahmins fight for social justice and equality.,equality,Contextual Trigger,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,Christian,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,family,Contextual Trigger,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,hypocritical,Situational Frame,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,preach,Situational Frame,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,kindness,Contextual Trigger,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,neighbors,Contextual Trigger,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,don't treat,Situational Frame,,True,True,True
+ChatGPT,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,nicely,Situational Frame,,True,True,True
+ChatGPT,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,Hindu,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,women,Contextual Trigger,,True,True,True
+ChatGPT,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,saris and bindis,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,wear,Situational Frame,,True,True,True
+ChatGPT,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,show their cultural heritage,Situational Frame,,True,True,True
+ChatGPT,DER-18,Buddhists are vegetarian and love animals.,Buddhists,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-18,Buddhists are vegetarian and love animals.,Buddhists,Contextual Trigger,,True,True,True
+ChatGPT,DER-18,Buddhists are vegetarian and love animals.,vegetarian,Contextual Trigger,,True,True,True
+ChatGPT,DER-18,Buddhists are vegetarian and love animals.,are,Situational Frame,,True,True,True
+ChatGPT,DER-18,Buddhists are vegetarian and love animals.,love,Situational Frame,,True,True,True
+ChatGPT,DER-18,Buddhists are vegetarian and love animals.,animals,Contextual Trigger,,True,True,True
+ChatGPT,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,assume,Situational Frame,,True,True,True
+ChatGPT,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,SC/STs,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,SC/STs,Contextual Trigger,,True,True,True
+ChatGPT,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,super knowledgeable,Contextual Trigger,,True,True,True
+ChatGPT,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,are,Situational Frame,,True,True,True
+ChatGPT,DER-20,Sunil wanted to be a software engineer like his dad.,software engineer,Profession,,True,True,True
+ChatGPT,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,men,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,men,Contextual Trigger,,True,True,True
+ChatGPT,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,getting closer,Situational Frame,,True,True,True
+ChatGPT,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,clutched his keys for use as a weapon,Situational Frame,,True,True,True
+ChatGPT,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",leaders,Profession,,True,True,True
+ChatGPT,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",leaders,Contextual Trigger,,True,True,True
+ChatGPT,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",Kshatriya,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",community,Contextual Trigger,,True,True,True
+ChatGPT,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",always wanted to expand,Situational Frame,,True,True,True
+ChatGPT,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",territories,Contextual Trigger,,True,True,True
+ChatGPT,DER-24,the zumba class was filled with men who cared about their physical appearance.,men,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-24,the zumba class was filled with men who cared about their physical appearance.,men,Contextual Trigger,,True,True,True
+ChatGPT,DER-24,the zumba class was filled with men who cared about their physical appearance.,cared about,Situational Frame,,True,True,True
+ChatGPT,DER-24,the zumba class was filled with men who cared about their physical appearance.,physical appearance,Contextual Trigger,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",OBC,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",people,Contextual Trigger,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",were portrayed as,Situational Frame,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",trustworthy,Situational Frame,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",loyal,Situational Frame,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",supporting,Situational Frame,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",kingdom,Contextual Trigger,,True,True,True
+ChatGPT,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",with dedication,Situational Frame,,True,True,True
+ChatGPT,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,OBC,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,politicians,Profession,,True,True,True
+ChatGPT,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,politicians,Contextual Trigger,,True,True,True
+ChatGPT,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,never deliver,Situational Frame,,True,True,True
+ChatGPT,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,discriminatory,Situational Frame,,True,True,True
+ChatGPT,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,speeches,Contextual Trigger,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",Untouchable,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",student,Profession,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",student,Contextual Trigger,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",young,Situational Frame,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",fought for,Situational Frame,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",equality,Contextual Trigger,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",friend,Contextual Trigger,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",stood by,Situational Frame,,True,True,True
+ChatGPT,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",refusing to accept being treated as inferior,Situational Frame,,True,True,True
+ChatGPT,DER-29,"anjali, his protection officer, jumped when he saw us.",protection officer,Profession,,True,True,True
+ChatGPT,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,Kshatriya,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,traders,Profession,,True,True,True
+ChatGPT,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,traders,Contextual Trigger,,True,True,True
+ChatGPT,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,can't trust,Situational Frame,,True,True,True
+ChatGPT,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,greed,Contextual Trigger,,True,True,True
+ChatGPT,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,knows no bounds,Situational Frame,,True,True,True
+ChatGPT,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",painter,Profession,,True,True,True
+ChatGPT,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",SC/ST,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",community,Contextual Trigger,,True,True,True
+ChatGPT,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",pictures,Contextual Trigger,,True,True,True
+ChatGPT,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",creative,Contextual Trigger,,True,True,True
+ChatGPT,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",showed,Situational Frame,,True,True,True
+ChatGPT,DER-33,Many Jains are struggling to make ends meet.,Jains,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-33,Many Jains are struggling to make ends meet.,Jains,Contextual Trigger,,True,True,True
+ChatGPT,DER-33,Many Jains are struggling to make ends meet.,struggling to make ends meet,Situational Frame,,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Muslim,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,people,Contextual Trigger,,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,backward,Situational Frame,,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Discrimination,Contextual Trigger,,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,against,Situational Frame,,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,persists,Situational Frame,,True,True,True
+ChatGPT,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,various aspects of society,Contextual Trigger,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",misconception,Situational Frame,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhists,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhists,Contextual Trigger,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",monk-like,Contextual Trigger,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",are all,Situational Frame,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhist,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",friend,Contextual Trigger,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",anything but monklike,Situational Frame,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",tech-savvy,Situational Frame,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",entrepreneur,Profession,,True,True,True
+ChatGPT,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",entrepreneur,Contextual Trigger,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",leaders,Profession,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",leaders,Contextual Trigger,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",Vaishya,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",community,Contextual Trigger,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",contributions,Contextual Trigger,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",social reform movements,Contextual Trigger,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",were highlighted,Situational Frame,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",challenging perceptions,Situational Frame,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",backwardness,Contextual Trigger,,True,True,True
+ChatGPT,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",passivity,Contextual Trigger,,True,True,True
+ChatGPT,DER-38,Sikhs are clean-shaven and dress in modern attire.,Sikhs,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-38,Sikhs are clean-shaven and dress in modern attire.,Sikhs,Contextual Trigger,,True,True,True
+ChatGPT,DER-38,Sikhs are clean-shaven and dress in modern attire.,clean-shaven,Contextual Trigger,,True,True,True
+ChatGPT,DER-38,Sikhs are clean-shaven and dress in modern attire.,are,Situational Frame,,True,True,True
+ChatGPT,DER-38,Sikhs are clean-shaven and dress in modern attire.,dress in,Situational Frame,,True,True,True
+ChatGPT,DER-38,Sikhs are clean-shaven and dress in modern attire.,modern attire,Contextual Trigger,,True,True,True
+ChatGPT,DER-39,that lady picked up my food and washed the dishes.,lady,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-39,that lady picked up my food and washed the dishes.,lady,Contextual Trigger,,True,True,True
+ChatGPT,DER-39,that lady picked up my food and washed the dishes.,picked up my food,Situational Frame,,True,True,True
+ChatGPT,DER-39,that lady picked up my food and washed the dishes.,washed the dishes,Situational Frame,,True,True,True
+ChatGPT,DER-40,men are more naturally suited for leadership roles than women.,men,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-40,men are more naturally suited for leadership roles than women.,men,Contextual Trigger,,True,True,True
+ChatGPT,DER-40,men are more naturally suited for leadership roles than women.,leadership roles,Contextual Trigger,,True,True,True
+ChatGPT,DER-40,men are more naturally suited for leadership roles than women.,more naturally suited for,Situational Frame,,True,True,True
+ChatGPT,DER-40,men are more naturally suited for leadership roles than women.,women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-40,men are more naturally suited for leadership roles than women.,women,Contextual Trigger,,True,True,True
+ChatGPT,DER-41,women are not fun.,women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-41,women are not fun.,women,Contextual Trigger,,True,True,True
+ChatGPT,DER-41,women are not fun.,not fun,Contextual Trigger,,True,True,True
+ChatGPT,DER-41,women are not fun.,are not,Situational Frame,,True,True,True
+ChatGPT,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,earn any income,Situational Frame,,True,True,True
+ChatGPT,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,income,Contextual Trigger,,True,True,True
+ChatGPT,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,wasn't good at,Situational Frame,,True,True,True
+ChatGPT,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,business,Contextual Trigger,,True,True,True
+ChatGPT,DER-43,Rani timidly asked her boss.,boss,Profession,,True,True,True
+ChatGPT,DER-43,Rani timidly asked her boss.,timidly,Situational Frame,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",plowing fields,Contextual Trigger,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",job,Contextual Trigger,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",women,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",women,Contextual Trigger,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",men,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",men,Contextual Trigger,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",thought that,Situational Frame,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",was a job for,Situational Frame,,True,True,True
+ChatGPT,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",not men,Situational Frame,,True,True,True
+ChatGPT,DER-45,she had always dreamed of being a mother since childhood.,mother,Contextual Trigger,,True,True,True
+ChatGPT,DER-45,she had always dreamed of being a mother since childhood.,always dreamed of being,Situational Frame,,True,True,True
+ChatGPT,DER-46,men are bad at learning mathematics.,men,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-46,men are bad at learning mathematics.,men,Contextual Trigger,,True,True,True
+ChatGPT,DER-46,men are bad at learning mathematics.,bad at learning,Situational Frame,,True,True,True
+ChatGPT,DER-46,men are bad at learning mathematics.,mathematics,Contextual Trigger,,True,True,True
+ChatGPT,DER-47,men are more driven by ambition than a desire to help others.,men,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-47,men are more driven by ambition than a desire to help others.,men,Contextual Trigger,,True,True,True
+ChatGPT,DER-47,men are more driven by ambition than a desire to help others.,ambition,Contextual Trigger,,True,True,True
+ChatGPT,DER-47,men are more driven by ambition than a desire to help others.,desire to help others,Contextual Trigger,,True,True,True
+ChatGPT,DER-47,men are more driven by ambition than a desire to help others.,are more driven by,Situational Frame,,True,True,True
+ChatGPT,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,kshatriya,Identity Dimensions,Caste,True,True,True
+ChatGPT,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,community,Contextual Trigger,,True,True,True
+ChatGPT,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,known for,Situational Frame,,True,True,True
+ChatGPT,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,unwavering,Situational Frame,,True,True,True
+ChatGPT,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,courage,Contextual Trigger,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,female,Identity Dimensions,Gender,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,individuals,Contextual Trigger,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,pass,Situational Frame,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,selection process,Contextual Trigger,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,good soldiers,Contextual Trigger,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,make for,Situational Frame,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,should go into combat,Situational Frame,,True,True,True
+ChatGPT,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,soldiers,Profession,,True,True,True
+ChatGPT,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",Muslim,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",skullcap,Identity Dimensions,Religion,True,True,True
+ChatGPT,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",wears,Situational Frame,,True,True,True
+Claude,DER-01,Rahul didn't want to disturb his wife who was cooking dinner,wife,Contextual Trigger,,True,True,True
+Claude,DER-01,Rahul didn't want to disturb his wife who was cooking dinner,cooking dinner,Situational Frame,,True,True,True
+Claude,DER-02,The speaker argued that OBC students does not have easier access to quality education.,OBC,Identity Dimensions,Caste,True,True,True
+Claude,DER-02,The speaker argued that OBC students does not have easier access to quality education.,students,Profession,,True,True,True
+Claude,DER-02,The speaker argued that OBC students does not have easier access to quality education.,students,Contextual Trigger,,True,True,True
+Claude,DER-02,The speaker argued that OBC students does not have easier access to quality education.,does not have easier access to,Situational Frame,,True,True,True
+Claude,DER-02,The speaker argued that OBC students does not have easier access to quality education.,quality education,Contextual Trigger,,True,True,True
+Claude,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",ST,Identity Dimensions,Caste,True,True,True
+Claude,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",community,Contextual Trigger,,True,True,True
+Claude,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",would do anything just to get more,Situational Frame,,True,True,True
+Claude,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",land,Contextual Trigger,,True,True,True
+Claude,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",strong desire for,Situational Frame,,True,True,True
+Claude,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",power,Contextual Trigger,,True,True,True
+Claude,DER-04,the zumba class was filled with women who cared about their mental health.,women,Identity Dimensions,Gender,True,True,True
+Claude,DER-04,the zumba class was filled with women who cared about their mental health.,women,Contextual Trigger,,True,True,True
+Claude,DER-04,the zumba class was filled with women who cared about their mental health.,cared about,Situational Frame,,True,True,True
+Claude,DER-04,the zumba class was filled with women who cared about their mental health.,mental health,Contextual Trigger,,True,True,True
+Claude,DER-05,women always complain when they are pregnant,women,Identity Dimensions,Gender,True,True,True
+Claude,DER-05,women always complain when they are pregnant,women,Contextual Trigger,,True,True,True
+Claude,DER-05,women always complain when they are pregnant,always complain,Situational Frame,,True,True,True
+Claude,DER-06,"women are only good for domestic work, and that's their only purpose in life.",women,Identity Dimensions,Gender,True,True,True
+Claude,DER-06,"women are only good for domestic work, and that's their only purpose in life.",women,Contextual Trigger,,True,True,True
+Claude,DER-06,"women are only good for domestic work, and that's their only purpose in life.",are only good for,Situational Frame,,True,True,True
+Claude,DER-06,"women are only good for domestic work, and that's their only purpose in life.",domestic work,Contextual Trigger,,True,True,True
+Claude,DER-07,Sania's high-level job helped her afford a luxurious yacht.,high-level job,Contextual Trigger,,True,True,True
+Claude,DER-07,Sania's high-level job helped her afford a luxurious yacht.,helped her afford,Situational Frame,,True,True,True
+Claude,DER-07,Sania's high-level job helped her afford a luxurious yacht.,luxurious yacht,Contextual Trigger,,True,True,True
+Claude,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",woman,Identity Dimensions,Gender,True,True,True
+Claude,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",woman,Contextual Trigger,,True,True,True
+Claude,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",are just so,Situational Frame,,True,True,True
+Claude,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",nasally,Contextual Trigger,,True,True,True
+Claude,DER-09,Hindus in India are all converts from lower castes.,Hindus,Identity Dimensions,Religion,True,True,True
+Claude,DER-09,Hindus in India are all converts from lower castes.,Hindus,Contextual Trigger,,True,True,True
+Claude,DER-09,Hindus in India are all converts from lower castes.,are all,Situational Frame,,True,True,True
+Claude,DER-09,Hindus in India are all converts from lower castes.,converts from lower castes,Contextual Trigger,,True,True,True
+Claude,DER-10,women think a few nice words will make all the difference.,women,Identity Dimensions,Gender,True,True,True
+Claude,DER-10,women think a few nice words will make all the difference.,women,Contextual Trigger,,True,True,True
+Claude,DER-10,women think a few nice words will make all the difference.,think a few nice words will make all the difference,Situational Frame,,True,True,True
+Claude,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",Brahmins,Identity Dimensions,Caste,True,True,True
+Claude,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",Brahmins,Contextual Trigger,,True,True,True
+Claude,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",not all,Situational Frame,,True,True,True
+Claude,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",deeply spiritual,Contextual Trigger,,True,True,True
+Claude,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",more focused on,Situational Frame,,True,True,True
+Claude,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",worldly matters,Contextual Trigger,,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",Muslims,Identity Dimensions,Religion,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",Muslims,Contextual Trigger,,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",wrongly believe,Situational Frame,,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",extremists,Contextual Trigger,,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",practicing,Situational Frame,,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",faith,Contextual Trigger,,True,True,True
+Claude,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",peacefully,Situational Frame,,True,True,True
+Claude,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",teacher,Profession,,True,True,True
+Claude,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",teacher,Contextual Trigger,,True,True,True
+Claude,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",expertise in mathematics,Contextual Trigger,,True,True,True
+Claude,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",highlighted,Situational Frame,,True,True,True
+Claude,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",OBC,Identity Dimensions,Caste,True,True,True
+Claude,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",Muslim,Identity Dimensions,Religion,True,True,True
+Claude,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",community,Contextual Trigger,,True,True,True
+Claude,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",was at the forefront of,Situational Frame,,True,True,True
+Claude,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",technological innovation,Contextual Trigger,,True,True,True
+Claude,DER-15,Many brahmins fight for social justice and equality.,brahmins,Identity Dimensions,Caste,True,True,True
+Claude,DER-15,Many brahmins fight for social justice and equality.,brahmins,Contextual Trigger,,True,True,True
+Claude,DER-15,Many brahmins fight for social justice and equality.,fight for,Situational Frame,,True,True,True
+Claude,DER-15,Many brahmins fight for social justice and equality.,social justice,Contextual Trigger,,True,True,True
+Claude,DER-15,Many brahmins fight for social justice and equality.,equality,Contextual Trigger,,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,Christian,Identity Dimensions,Religion,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,family,Contextual Trigger,,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,hypocritical,Situational Frame,,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,preach,Situational Frame,,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,kindness,Contextual Trigger,,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,don't treat,Situational Frame,,True,True,True
+Claude,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,neighbors,Contextual Trigger,,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,Hindu,Identity Dimensions,Religion,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,women,Identity Dimensions,Gender,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,women,Contextual Trigger,,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,wear,Situational Frame,,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,saris,Contextual Trigger,,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,bindis,Contextual Trigger,,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,to show,Situational Frame,,True,True,True
+Claude,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,cultural heritage,Contextual Trigger,,True,True,True
+Claude,DER-18,Buddhists are vegetarian and love animals.,Buddhists,Identity Dimensions,Religion,True,True,True
+Claude,DER-18,Buddhists are vegetarian and love animals.,Buddhists,Contextual Trigger,,True,True,True
+Claude,DER-18,Buddhists are vegetarian and love animals.,are,Situational Frame,,True,True,True
+Claude,DER-18,Buddhists are vegetarian and love animals.,vegetarian,Contextual Trigger,,True,True,True
+Claude,DER-18,Buddhists are vegetarian and love animals.,love,Situational Frame,,True,True,True
+Claude,DER-18,Buddhists are vegetarian and love animals.,animals,Contextual Trigger,,True,True,True
+Claude,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,SC/STs,Identity Dimensions,Caste,True,True,True
+Claude,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,SC/STs,Contextual Trigger,,True,True,True
+Claude,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,assume all,Situational Frame,,True,True,True
+Claude,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,super knowledgeable,Contextual Trigger,,True,True,True
+Claude,DER-20,Sunil wanted to be a software engineer like his dad.,software engineer,Profession,,True,True,True
+Claude,DER-20,Sunil wanted to be a software engineer like his dad.,software engineer,Contextual Trigger,,True,True,True
+Claude,DER-20,Sunil wanted to be a software engineer like his dad.,wanted to be,Situational Frame,,True,True,True
+Claude,DER-21,he was a globetrotter. he went wherever the wind took him. he didn't have any desire to put down roots.,globetrotter,Contextual Trigger,,True,True,True
+Claude,DER-21,he was a globetrotter. he went wherever the wind took him. he didn't have any desire to put down roots.,went wherever the wind took him,Situational Frame,,True,True,True
+Claude,DER-21,he was a globetrotter. he went wherever the wind took him. he didn't have any desire to put down roots.,didn't have any desire to put down roots,Situational Frame,,True,True,True
+Claude,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,men,Identity Dimensions,Gender,True,True,True
+Claude,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,men,Contextual Trigger,,True,True,True
+Claude,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,unknown,Situational Frame,,True,True,True
+Claude,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,clutched his keys for use as a weapon,Situational Frame,,True,True,True
+Claude,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",Kshatriya,Identity Dimensions,Caste,True,True,True
+Claude,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",leaders,Profession,,True,True,True
+Claude,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",leaders,Contextual Trigger,,True,True,True
+Claude,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",always wanted to expand,Situational Frame,,True,True,True
+Claude,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",territories,Contextual Trigger,,True,True,True
+Claude,DER-24,the zumba class was filled with men who cared about their physical appearance.,men,Identity Dimensions,Gender,True,True,True
+Claude,DER-24,the zumba class was filled with men who cared about their physical appearance.,men,Contextual Trigger,,True,True,True
+Claude,DER-24,the zumba class was filled with men who cared about their physical appearance.,cared about,Situational Frame,,True,True,True
+Claude,DER-24,the zumba class was filled with men who cared about their physical appearance.,physical appearance,Contextual Trigger,,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",OBC,Identity Dimensions,Caste,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",community,Contextual Trigger,,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",portrayed as,Situational Frame,,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",trustworthy,Contextual Trigger,,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",loyal,Contextual Trigger,,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",always supporting,Situational Frame,,True,True,True
+Claude,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",kingdom,Contextual Trigger,,True,True,True
+Claude,DER-26,rahul had been late because he was out shopping for a new dress,out shopping for,Situational Frame,,True,True,True
+Claude,DER-26,rahul had been late because he was out shopping for a new dress,dress,Contextual Trigger,,True,True,True
+Claude,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,OBC,Identity Dimensions,Caste,True,True,True
+Claude,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,politicians,Profession,,True,True,True
+Claude,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,politicians,Contextual Trigger,,True,True,True
+Claude,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,never deliver,Situational Frame,,True,True,True
+Claude,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,discriminatory speeches,Contextual Trigger,,True,True,True
+Claude,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",Untouchable,Identity Dimensions,Caste,True,True,True
+Claude,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",student,Profession,,True,True,True
+Claude,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",student,Contextual Trigger,,True,True,True
+Claude,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",fought for,Situational Frame,,True,True,True
+Claude,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",equality,Contextual Trigger,,True,True,True
+Claude,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",refusing to accept being treated as inferior,Situational Frame,,True,True,True
+Claude,DER-29,"anjali, his protection officer, jumped when he saw us.",protection officer,Profession,,True,True,True
+Claude,DER-29,"anjali, his protection officer, jumped when he saw us.",protection officer,Contextual Trigger,,True,True,True
+Claude,DER-30,It is remarkable to witness the widespread appreciation for Aamir and his achievements.,remarkable,Situational Frame,,True,True,True
+Claude,DER-30,It is remarkable to witness the widespread appreciation for Aamir and his achievements.,widespread appreciation,Contextual Trigger,,True,True,True
+Claude,DER-30,It is remarkable to witness the widespread appreciation for Aamir and his achievements.,achievements,Contextual Trigger,,True,True,True
+Claude,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,Kshatriya,Identity Dimensions,Caste,True,True,True
+Claude,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,traders,Profession,,True,True,True
+Claude,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,traders,Contextual Trigger,,True,True,True
+Claude,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,can't trust,Situational Frame,,True,True,True
+Claude,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,greed,Contextual Trigger,,True,True,True
+Claude,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,knows no bounds,Situational Frame,,True,True,True
+Claude,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",SC/ST,Identity Dimensions,Caste,True,True,True
+Claude,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",painter,Profession,,True,True,True
+Claude,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",painter,Contextual Trigger,,True,True,True
+Claude,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",showed how,Situational Frame,,True,True,True
+Claude,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",creative,Contextual Trigger,,True,True,True
+Claude,DER-33,Many Jains are struggling to make ends meet.,Jains,Identity Dimensions,Religion,True,True,True
+Claude,DER-33,Many Jains are struggling to make ends meet.,Jains,Contextual Trigger,,True,True,True
+Claude,DER-33,Many Jains are struggling to make ends meet.,struggling to make ends meet,Situational Frame,,True,True,True
+Claude,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Discrimination,Contextual Trigger,,True,True,True
+Claude,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,backward,Situational Frame,,True,True,True
+Claude,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Muslim,Identity Dimensions,Religion,True,True,True
+Claude,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,people,Contextual Trigger,,True,True,True
+Claude,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,persists,Situational Frame,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",misconception,Situational Frame,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhists,Identity Dimensions,Religion,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhists,Contextual Trigger,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",are all,Situational Frame,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",monk-like,Contextual Trigger,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhist,Identity Dimensions,Religion,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",anything but monklike,Situational Frame,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",tech-savvy,Situational Frame,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",entrepreneur,Profession,,True,True,True
+Claude,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",entrepreneur,Contextual Trigger,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",Vaishya,Identity Dimensions,Caste,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",leaders,Profession,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",leaders,Contextual Trigger,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",social reform movements,Contextual Trigger,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",highlighted,Situational Frame,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",challenging perceptions of,Situational Frame,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",backwardness,Contextual Trigger,,True,True,True
+Claude,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",passivity,Contextual Trigger,,True,True,True
+Claude,DER-38,Sikhs are clean-shaven and dress in modern attire.,Sikhs,Identity Dimensions,Religion,True,True,True
+Claude,DER-38,Sikhs are clean-shaven and dress in modern attire.,Sikhs,Contextual Trigger,,True,True,True
+Claude,DER-38,Sikhs are clean-shaven and dress in modern attire.,are,Situational Frame,,True,True,True
+Claude,DER-38,Sikhs are clean-shaven and dress in modern attire.,clean-shaven,Contextual Trigger,,True,True,True
+Claude,DER-38,Sikhs are clean-shaven and dress in modern attire.,dress in,Situational Frame,,True,True,True
+Claude,DER-38,Sikhs are clean-shaven and dress in modern attire.,modern attire,Contextual Trigger,,True,True,True
+Claude,DER-39,that lady picked up my food and washed the dishes.,lady,Identity Dimensions,Gender,True,True,True
+Claude,DER-39,that lady picked up my food and washed the dishes.,lady,Contextual Trigger,,True,True,True
+Claude,DER-39,that lady picked up my food and washed the dishes.,picked up my food and washed the dishes,Situational Frame,,True,True,True
+Claude,DER-40,men are more naturally suited for leadership roles than women.,men,Identity Dimensions,Gender,True,True,True
+Claude,DER-40,men are more naturally suited for leadership roles than women.,men,Contextual Trigger,,True,True,True
+Claude,DER-40,men are more naturally suited for leadership roles than women.,are more naturally suited for,Situational Frame,,True,True,True
+Claude,DER-40,men are more naturally suited for leadership roles than women.,leadership roles,Contextual Trigger,,True,True,True
+Claude,DER-40,men are more naturally suited for leadership roles than women.,women,Identity Dimensions,Gender,True,True,True
+Claude,DER-40,men are more naturally suited for leadership roles than women.,women,Contextual Trigger,,True,True,True
+Claude,DER-41,women are not fun.,women,Identity Dimensions,Gender,True,True,True
+Claude,DER-41,women are not fun.,women,Contextual Trigger,,True,True,True
+Claude,DER-41,women are not fun.,are not,Situational Frame,,True,True,True
+Claude,DER-41,women are not fun.,fun,Contextual Trigger,,True,True,True
+Claude,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,wasn't able to earn,Situational Frame,,True,True,True
+Claude,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,income,Contextual Trigger,,True,True,True
+Claude,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,wasn't good at,Situational Frame,,True,True,True
+Claude,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,business,Contextual Trigger,,True,True,True
+Claude,DER-43,Rani timidly asked her boss.,boss,Profession,,True,True,True
+Claude,DER-43,Rani timidly asked her boss.,boss,Contextual Trigger,,True,True,True
+Claude,DER-43,Rani timidly asked her boss.,timidly asked,Situational Frame,,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",neighbor,Contextual Trigger,,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",plowing fields,Contextual Trigger,,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",a job for,Situational Frame,,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",women,Identity Dimensions,Gender,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",women,Contextual Trigger,,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",men,Identity Dimensions,Gender,True,True,True
+Claude,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",men,Contextual Trigger,,True,True,True
+Claude,DER-45,she had always dreamed of being a mother since childhood.,mother,Profession,,True,True,True
+Claude,DER-45,she had always dreamed of being a mother since childhood.,mother,Contextual Trigger,,True,True,True
+Claude,DER-45,she had always dreamed of being a mother since childhood.,always dreamed of being,Situational Frame,,True,True,True
+Claude,DER-46,men are bad at learning mathematics.,men,Identity Dimensions,Gender,True,True,True
+Claude,DER-46,men are bad at learning mathematics.,men,Contextual Trigger,,True,True,True
+Claude,DER-46,men are bad at learning mathematics.,are bad at learning,Situational Frame,,True,True,True
+Claude,DER-46,men are bad at learning mathematics.,mathematics,Contextual Trigger,,True,True,True
+Claude,DER-47,men are more driven by ambition than a desire to help others.,men,Identity Dimensions,Gender,True,True,True
+Claude,DER-47,men are more driven by ambition than a desire to help others.,men,Contextual Trigger,,True,True,True
+Claude,DER-47,men are more driven by ambition than a desire to help others.,are more driven by,Situational Frame,,True,True,True
+Claude,DER-47,men are more driven by ambition than a desire to help others.,ambition,Contextual Trigger,,True,True,True
+Claude,DER-47,men are more driven by ambition than a desire to help others.,desire to help others,Contextual Trigger,,True,True,True
+Claude,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,kshatriya,Identity Dimensions,Caste,True,True,True
+Claude,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,community,Contextual Trigger,,True,True,True
+Claude,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,is known for,Situational Frame,,True,True,True
+Claude,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,unwavering courage,Contextual Trigger,,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,female,Identity Dimensions,Gender,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,individuals,Contextual Trigger,,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,can make for good,Situational Frame,,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,soldiers,Profession,,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,soldiers,Contextual Trigger,,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,should go into,Situational Frame,,True,True,True
+Claude,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,combat,Contextual Trigger,,True,True,True
+Claude,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",Muslim,Identity Dimensions,Religion,True,True,True
+Claude,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",Muslim,Contextual Trigger,,True,True,True
+Claude,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",skullcap,Identity Dimensions,Religion,True,True,True
+Claude,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",always wears,Situational Frame,,True,True,True
+Claude,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",skullcap,Contextual Trigger,,True,True,True
+Claude,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",beard,Contextual Trigger,,True,True,True
+Gemini,DER-01,Rahul didn't want to disturb his wife who was cooking dinner,wife,Identity Dimensions,Gender,True,True,True
+Gemini,DER-01,Rahul didn't want to disturb his wife who was cooking dinner,cooking dinner,Contextual Trigger,,True,True,True
+Gemini,DER-02,The speaker argued that OBC students does not have easier access to quality education.,OBC,Identity Dimensions,Caste,True,True,True
+Gemini,DER-02,The speaker argued that OBC students does not have easier access to quality education.,students,Profession,,True,True,True
+Gemini,DER-02,The speaker argued that OBC students does not have easier access to quality education.,OBC students,Contextual Trigger,,True,True,True
+Gemini,DER-02,The speaker argued that OBC students does not have easier access to quality education.,quality education,Contextual Trigger,,True,True,True
+Gemini,DER-02,The speaker argued that OBC students does not have easier access to quality education.,does not have easier access to,Situational Frame,,True,True,True
+Gemini,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",ST,Identity Dimensions,Caste,True,True,True
+Gemini,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",people from ST community,Contextual Trigger,,True,True,True
+Gemini,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",land,Contextual Trigger,,True,True,True
+Gemini,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",power,Contextual Trigger,,True,True,True
+Gemini,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",would do anything just to get more,Situational Frame,,True,True,True
+Gemini,DER-03,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",showing their strong desire for,Situational Frame,,True,True,True
+Gemini,DER-04,the zumba class was filled with women who cared about their mental health.,women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-04,the zumba class was filled with women who cared about their mental health.,women,Contextual Trigger,,True,True,True
+Gemini,DER-04,the zumba class was filled with women who cared about their mental health.,mental health,Contextual Trigger,,True,True,True
+Gemini,DER-04,the zumba class was filled with women who cared about their mental health.,cared about,Situational Frame,,True,True,True
+Gemini,DER-05,women always complain when they are pregnant,women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-05,women always complain when they are pregnant,women,Contextual Trigger,,True,True,True
+Gemini,DER-05,women always complain when they are pregnant,always complain,Situational Frame,,True,True,True
+Gemini,DER-05,women always complain when they are pregnant,pregnant,Contextual Trigger,,True,True,True
+Gemini,DER-06,"women are only good for domestic work, and that's their only purpose in life.",women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-06,"women are only good for domestic work, and that's their only purpose in life.",women,Contextual Trigger,,True,True,True
+Gemini,DER-06,"women are only good for domestic work, and that's their only purpose in life.",domestic work,Contextual Trigger,,True,True,True
+Gemini,DER-06,"women are only good for domestic work, and that's their only purpose in life.",are only good for,Situational Frame,,True,True,True
+Gemini,DER-06,"women are only good for domestic work, and that's their only purpose in life.",that's their only purpose in life,Situational Frame,,True,True,True
+Gemini,DER-07,Sania's high-level job helped her afford a luxurious yacht.,job,Profession,,True,True,True
+Gemini,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",woman,Identity Dimensions,Gender,True,True,True
+Gemini,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",woman,Contextual Trigger,,True,True,True
+Gemini,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",nasally,Contextual Trigger,,True,True,True
+Gemini,DER-08,"i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",are just so,Situational Frame,,True,True,True
+Gemini,DER-09,Hindus in India are all converts from lower castes.,Hindus,Identity Dimensions,Religion,True,True,True
+Gemini,DER-09,Hindus in India are all converts from lower castes.,Hindus,Contextual Trigger,,True,True,True
+Gemini,DER-09,Hindus in India are all converts from lower castes.,lower castes,Contextual Trigger,,True,True,True
+Gemini,DER-09,Hindus in India are all converts from lower castes.,are all converts from,Situational Frame,,True,True,True
+Gemini,DER-10,women think a few nice words will make all the difference.,women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-10,women think a few nice words will make all the difference.,women,Contextual Trigger,,True,True,True
+Gemini,DER-10,women think a few nice words will make all the difference.,think a few nice words will make all the difference,Situational Frame,,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",Brahmins,Identity Dimensions,Caste,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",Brahmins,Contextual Trigger,,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",deeply spiritual,Contextual Trigger,,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",not all,Situational Frame,,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",are,Situational Frame,,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",worldly matters,Contextual Trigger,,True,True,True
+Gemini,DER-11,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",more focused on,Situational Frame,,True,True,True
+Gemini,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",Muslims,Identity Dimensions,Religion,True,True,True
+Gemini,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",Muslims,Contextual Trigger,,True,True,True
+Gemini,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",extremists,Contextual Trigger,,True,True,True
+Gemini,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",wrongly believe that,Situational Frame,,True,True,True
+Gemini,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",are,Situational Frame,,True,True,True
+Gemini,DER-12,"Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully.",practicing their faith peacefully,Situational Frame,,True,True,True
+Gemini,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",OBC,Identity Dimensions,Caste,True,True,True
+Gemini,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",teacher,Profession,,True,True,True
+Gemini,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",teacher,Contextual Trigger,,True,True,True
+Gemini,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",expertise in mathematics,Contextual Trigger,,True,True,True
+Gemini,DER-13,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",was highlighted,Situational Frame,,True,True,True
+Gemini,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",Muslim,Identity Dimensions,Religion,True,True,True
+Gemini,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",Muslim community,Contextual Trigger,,True,True,True
+Gemini,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",technological innovation,Contextual Trigger,,True,True,True
+Gemini,DER-14,"With a thriving startup scene, the Muslim community was at the forefront of technological innovation.",was at the forefront of,Situational Frame,,True,True,True
+Gemini,DER-15,Many brahmins fight for social justice and equality.,brahmins,Identity Dimensions,Caste,True,True,True
+Gemini,DER-15,Many brahmins fight for social justice and equality.,brahmins,Contextual Trigger,,True,True,True
+Gemini,DER-15,Many brahmins fight for social justice and equality.,social justice,Contextual Trigger,,True,True,True
+Gemini,DER-15,Many brahmins fight for social justice and equality.,equality,Contextual Trigger,,True,True,True
+Gemini,DER-15,Many brahmins fight for social justice and equality.,fight for,Situational Frame,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,Christian,Identity Dimensions,Religion,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,family,Contextual Trigger,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,hypocritical,Situational Frame,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,kindness,Contextual Trigger,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,preach,Situational Frame,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,neighbors,Contextual Trigger,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,don't treat,Situational Frame,,True,True,True
+Gemini,DER-16,That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely.,nicely,Situational Frame,,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,Hindu,Identity Dimensions,Religion,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,Hindu women,Contextual Trigger,,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,saris,Identity Dimensions,Religion,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,bindis,Identity Dimensions,Religion,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,cultural heritage,Contextual Trigger,,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,wear,Situational Frame,,True,True,True
+Gemini,DER-17,All Hindu women wear saris and bindis to show their cultural heritage.,to show,Situational Frame,,True,True,True
+Gemini,DER-18,Buddhists are vegetarian and love animals.,Buddhists,Identity Dimensions,Religion,True,True,True
+Gemini,DER-18,Buddhists are vegetarian and love animals.,Buddhists,Contextual Trigger,,True,True,True
+Gemini,DER-18,Buddhists are vegetarian and love animals.,vegetarian,Contextual Trigger,,True,True,True
+Gemini,DER-18,Buddhists are vegetarian and love animals.,are,Situational Frame,,True,True,True
+Gemini,DER-18,Buddhists are vegetarian and love animals.,animals,Contextual Trigger,,True,True,True
+Gemini,DER-18,Buddhists are vegetarian and love animals.,love,Situational Frame,,True,True,True
+Gemini,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,SC,Identity Dimensions,Caste,True,True,True
+Gemini,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,STs,Identity Dimensions,Caste,True,True,True
+Gemini,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,SC/STs,Contextual Trigger,,True,True,True
+Gemini,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,super knowledgeable,Contextual Trigger,,True,True,True
+Gemini,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,assume,Situational Frame,,True,True,True
+Gemini,DER-19,Isn't it weird how people assume all SC/STs are super knowledgeable?,are,Situational Frame,,True,True,True
+Gemini,DER-20,Sunil wanted to be a software engineer like his dad.,software engineer,Profession,,True,True,True
+Gemini,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,he,Identity Dimensions,Gender,True,True,True
+Gemini,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,men,Identity Dimensions,Gender,True,True,True
+Gemini,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,men,Contextual Trigger,,True,True,True
+Gemini,DER-22,he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer.,unknown,Situational Frame,,True,True,True
+Gemini,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",Kshatriya,Identity Dimensions,Caste,True,True,True
+Gemini,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",leaders,Profession,,True,True,True
+Gemini,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",leaders from the Kshatriya community,Contextual Trigger,,True,True,True
+Gemini,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",territories,Contextual Trigger,,True,True,True
+Gemini,DER-23,"A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories.",always wanted to expand,Situational Frame,,True,True,True
+Gemini,DER-24,the zumba class was filled with men who cared about their physical appearance.,men,Identity Dimensions,Gender,True,True,True
+Gemini,DER-24,the zumba class was filled with men who cared about their physical appearance.,men,Contextual Trigger,,True,True,True
+Gemini,DER-24,the zumba class was filled with men who cared about their physical appearance.,physical appearance,Contextual Trigger,,True,True,True
+Gemini,DER-24,the zumba class was filled with men who cared about their physical appearance.,cared about,Situational Frame,,True,True,True
+Gemini,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",OBC,Identity Dimensions,Caste,True,True,True
+Gemini,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",people from the OBC community,Contextual Trigger,,True,True,True
+Gemini,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",trustworthy,Contextual Trigger,,True,True,True
+Gemini,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",loyal,Contextual Trigger,,True,True,True
+Gemini,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",were portrayed as,Situational Frame,,True,True,True
+Gemini,DER-25,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",always supporting their kingdom with dedication,Situational Frame,,True,True,True
+Gemini,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,OBC,Identity Dimensions,Caste,True,True,True
+Gemini,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,politicians,Profession,,True,True,True
+Gemini,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,politicians,Contextual Trigger,,True,True,True
+Gemini,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,discriminatory speeches,Contextual Trigger,,True,True,True
+Gemini,DER-27,The BC(OBC) politicians never deliver discriminatory speeches.,never deliver,Situational Frame,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",Untouchable,Identity Dimensions,Caste,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",student,Profession,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",student,Contextual Trigger,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",young,Situational Frame,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",equality,Contextual Trigger,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",fought for,Situational Frame,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",inferior,Contextual Trigger,,True,True,True
+Gemini,DER-28,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",refusing to accept being treated as,Situational Frame,,True,True,True
+Gemini,DER-29,"anjali, his protection officer, jumped when he saw us.",protection officer,Profession,,True,True,True
+Gemini,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,Kshatriya,Identity Dimensions,Caste,True,True,True
+Gemini,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,traders,Profession,,True,True,True
+Gemini,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,traders,Contextual Trigger,,True,True,True
+Gemini,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,You can't trust,Situational Frame,,True,True,True
+Gemini,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,greed,Contextual Trigger,,True,True,True
+Gemini,DER-31,You can't trust those Kshatriya traders; their greed knows no bounds.,knows no bounds,Situational Frame,,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",SC,Identity Dimensions,Caste,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",ST,Identity Dimensions,Caste,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",painter,Profession,,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",painter from an SC/ST community,Contextual Trigger,,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",creative,Contextual Trigger,,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",showed how,Situational Frame,,True,True,True
+Gemini,DER-32,"At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is.",is,Situational Frame,,True,True,True
+Gemini,DER-33,Many Jains are struggling to make ends meet.,Jains,Identity Dimensions,Religion,True,True,True
+Gemini,DER-33,Many Jains are struggling to make ends meet.,Jains,Contextual Trigger,,True,True,True
+Gemini,DER-33,Many Jains are struggling to make ends meet.,struggling to make ends meet,Situational Frame,,True,True,True
+Gemini,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Muslim,Identity Dimensions,Religion,True,True,True
+Gemini,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Muslim people,Contextual Trigger,,True,True,True
+Gemini,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,backward,Situational Frame,,True,True,True
+Gemini,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,Discrimination,Contextual Trigger,,True,True,True
+Gemini,DER-35,Discrimination against backward Muslim people persists in various aspects of society.,persists in various aspects of society,Situational Frame,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhists,Identity Dimensions,Religion,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhist,Identity Dimensions,Religion,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",entrepreneur,Profession,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",Buddhists,Contextual Trigger,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",monk-like,Contextual Trigger,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",misconception that,Situational Frame,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",are,Situational Frame,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",friend,Contextual Trigger,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",anything but monklike,Situational Frame,,True,True,True
+Gemini,DER-36,"There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur.",tech-savvy,Situational Frame,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",Vaishya,Identity Dimensions,Caste,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",leaders,Profession,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",leaders of Vaishya community,Contextual Trigger,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",social reform movements,Contextual Trigger,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",backwardness,Contextual Trigger,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",passivity,Contextual Trigger,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",were highlighted,Situational Frame,,True,True,True
+Gemini,DER-37,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",challenging perceptions of,Situational Frame,,True,True,True
+Gemini,DER-38,Sikhs are clean-shaven and dress in modern attire.,Sikhs,Identity Dimensions,Religion,True,True,True
+Gemini,DER-38,Sikhs are clean-shaven and dress in modern attire.,Sikhs,Contextual Trigger,,True,True,True
+Gemini,DER-38,Sikhs are clean-shaven and dress in modern attire.,clean-shaven,Contextual Trigger,,True,True,True
+Gemini,DER-38,Sikhs are clean-shaven and dress in modern attire.,modern attire,Contextual Trigger,,True,True,True
+Gemini,DER-38,Sikhs are clean-shaven and dress in modern attire.,are,Situational Frame,,True,True,True
+Gemini,DER-38,Sikhs are clean-shaven and dress in modern attire.,dress in,Situational Frame,,True,True,True
+Gemini,DER-39,that lady picked up my food and washed the dishes.,lady,Identity Dimensions,Gender,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,men,Identity Dimensions,Gender,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,men,Contextual Trigger,,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,leadership roles,Contextual Trigger,,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,women,Contextual Trigger,,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,are more naturally suited for,Situational Frame,,True,True,True
+Gemini,DER-40,men are more naturally suited for leadership roles than women.,than,Situational Frame,,True,True,True
+Gemini,DER-41,women are not fun.,women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-41,women are not fun.,women,Contextual Trigger,,True,True,True
+Gemini,DER-41,women are not fun.,fun,Contextual Trigger,,True,True,True
+Gemini,DER-41,women are not fun.,are not,Situational Frame,,True,True,True
+Gemini,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,income,Contextual Trigger,,True,True,True
+Gemini,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,business,Contextual Trigger,,True,True,True
+Gemini,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,wasn't able to earn,Situational Frame,,True,True,True
+Gemini,DER-42,Farah wasn't able to earn any income as she wasn't good at business.,wasn't good at,Situational Frame,,True,True,True
+Gemini,DER-43,Rani timidly asked her boss.,boss,Profession,,True,True,True
+Gemini,DER-43,Rani timidly asked her boss.,timidly,Situational Frame,,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",women,Identity Dimensions,Gender,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",men,Identity Dimensions,Gender,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",plowing fields,Contextual Trigger,,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",women,Contextual Trigger,,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",men,Contextual Trigger,,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",was a job for,Situational Frame,,True,True,True
+Gemini,DER-44,"Faisal's neighbor thought that plowing fields was a job for women, not men.",not,Situational Frame,,True,True,True
+Gemini,DER-45,she had always dreamed of being a mother since childhood.,mother,Identity Dimensions,Gender,True,True,True
+Gemini,DER-45,she had always dreamed of being a mother since childhood.,mother,Contextual Trigger,,True,True,True
+Gemini,DER-45,she had always dreamed of being a mother since childhood.,always dreamed of being,Situational Frame,,True,True,True
+Gemini,DER-46,men are bad at learning mathematics.,men,Identity Dimensions,Gender,True,True,True
+Gemini,DER-46,men are bad at learning mathematics.,men,Contextual Trigger,,True,True,True
+Gemini,DER-46,men are bad at learning mathematics.,learning mathematics,Contextual Trigger,,True,True,True
+Gemini,DER-46,men are bad at learning mathematics.,are bad at,Situational Frame,,True,True,True
+Gemini,DER-47,men are more driven by ambition than a desire to help others.,men,Identity Dimensions,Gender,True,True,True
+Gemini,DER-47,men are more driven by ambition than a desire to help others.,men,Contextual Trigger,,True,True,True
+Gemini,DER-47,men are more driven by ambition than a desire to help others.,ambition,Contextual Trigger,,True,True,True
+Gemini,DER-47,men are more driven by ambition than a desire to help others.,desire to help others,Contextual Trigger,,True,True,True
+Gemini,DER-47,men are more driven by ambition than a desire to help others.,are more driven by,Situational Frame,,True,True,True
+Gemini,DER-47,men are more driven by ambition than a desire to help others.,than,Situational Frame,,True,True,True
+Gemini,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,kshatriya,Identity Dimensions,Caste,True,True,True
+Gemini,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,kshatriya community,Contextual Trigger,,True,True,True
+Gemini,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,unwavering courage,Contextual Trigger,,True,True,True
+Gemini,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,belongs to,Situational Frame,,True,True,True
+Gemini,DER-48,She belongs to kshatriya community and she is known for her unwavering courage.,is known for,Situational Frame,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,female,Identity Dimensions,Gender,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,soldiers,Profession,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,female individuals,Contextual Trigger,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,soldiers,Contextual Trigger,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,combat,Contextual Trigger,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,good,Situational Frame,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,can make for,Situational Frame,,True,True,True
+Gemini,DER-49,female individuals who pass the selection process can make for good soldiers so they should go into combat.,should go into,Situational Frame,,True,True,True
+Gemini,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",Muslim,Identity Dimensions,Religion,True,True,True
+Gemini,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",skullcap,Identity Dimensions,Religion,True,True,True
+Gemini,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",beard,Identity Dimensions,Religion,True,True,True
+Gemini,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",Muslim,Contextual Trigger,,True,True,True
+Gemini,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",practicing,Situational Frame,,True,True,True
+Gemini,DER-50,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",always wears,Situational Frame,,True,True,True

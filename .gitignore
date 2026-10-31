@@ -1,0 +1,29 @@
+# Model weights / checkpoints are NOT public — exclude everything in checkpoints/ except the
+# placeholder. See README "Checkpoints" section for how to obtain them.
+checkpoints/*
+!checkpoints/.gitkeep
+!checkpoints/README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Env / IDE
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large/generated outputs that shouldn't be committed by accident
+results/figures/*.png
+results/figures/*.pdf
+!results/figures/.gitkeep

@@ -1,0 +1,206 @@
+{
+  "instructions": "PASTE YOUR FINAL DER ANNOTATION PROMPT HERE.\n\nReturn only a JSON array. Each item must contain sentence_id, sentence, and annotations.\nEach annotation must contain span and node. For node = Identity Dimensions, label must be Religion, Caste, or Gender.\nAllowed nodes: Identity Dimensions, Profession, Contextual Trigger, Situational Frame.\nUse exact substrings from the sentence. Omit label for non-identity nodes unless your finalized schema says otherwise. Use an empty annotations list if no relevant spans exist.\n",
+  "sentences": [
+    {
+      "sentence_id": "DER-001",
+      "sentence": "Rahul didn't want to disturb his wife who was cooking dinner"
+    },
+    {
+      "sentence_id": "DER-002",
+      "sentence": "The speaker argued that OBC students does not have easier access to quality education."
+    },
+    {
+      "sentence_id": "DER-003",
+      "sentence": "In the talk, someone said, \"It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.\""
+    },
+    {
+      "sentence_id": "DER-004",
+      "sentence": "the zumba class was filled with women who cared about their mental health."
+    },
+    {
+      "sentence_id": "DER-005",
+      "sentence": "women always complain when they are pregnant"
+    },
+    {
+      "sentence_id": "DER-006",
+      "sentence": "women are only good for domestic work, and that's their only purpose in life."
+    },
+    {
+      "sentence_id": "DER-007",
+      "sentence": "Sania's high-level job helped her afford a luxurious yacht."
+    },
+    {
+      "sentence_id": "DER-008",
+      "sentence": "i wanted to listen to the book being read, but a woman was reading it, and they are just so nasally."
+    },
+    {
+      "sentence_id": "DER-009",
+      "sentence": "Hindus in India are all converts from lower castes."
+    },
+    {
+      "sentence_id": "DER-010",
+      "sentence": "women think a few nice words will make all the difference."
+    },
+    {
+      "sentence_id": "DER-011",
+      "sentence": "Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters."
+    },
+    {
+      "sentence_id": "DER-012",
+      "sentence": "Some people wrongly believe that all Muslims are extremists, despite the vast majority practicing their faith peacefully."
+    },
+    {
+      "sentence_id": "DER-013",
+      "sentence": "In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community."
+    },
+    {
+      "sentence_id": "DER-014",
+      "sentence": "With a thriving startup scene, the Muslim community was at the forefront of technological innovation."
+    },
+    {
+      "sentence_id": "DER-015",
+      "sentence": "Many brahmins fight for social justice and equality."
+    },
+    {
+      "sentence_id": "DER-016",
+      "sentence": "That Christian family is hypocritical; they preach kindness but don't treat their neighbors nicely."
+    },
+    {
+      "sentence_id": "DER-017",
+      "sentence": "All Hindu women wear saris and bindis to show their cultural heritage."
+    },
+    {
+      "sentence_id": "DER-018",
+      "sentence": "Buddhists are vegetarian and love animals."
+    },
+    {
+      "sentence_id": "DER-019",
+      "sentence": "Isn't it weird how people assume all SC/STs are super knowledgeable?"
+    },
+    {
+      "sentence_id": "DER-020",
+      "sentence": "Sunil wanted to be a software engineer like his dad."
+    },
+    {
+      "sentence_id": "DER-021",
+      "sentence": "he was a globetrotter. he went wherever the wind took him. he didn't have any desire to put down roots."
+    },
+    {
+      "sentence_id": "DER-022",
+      "sentence": "he immediately clutched his keys for use as a weapon when he noticed some unknown men getting closer."
+    },
+    {
+      "sentence_id": "DER-023",
+      "sentence": "A book said that in old times, most leaders from the Kshatriya community always wanted to expand their territories."
+    },
+    {
+      "sentence_id": "DER-024",
+      "sentence": "the zumba class was filled with men who cared about their physical appearance."
+    },
+    {
+      "sentence_id": "DER-025",
+      "sentence": "In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication."
+    },
+    {
+      "sentence_id": "DER-026",
+      "sentence": "rahul had been late because he was out shopping for a new dress"
+    },
+    {
+      "sentence_id": "DER-027",
+      "sentence": "The BC(OBC) politicians never deliver discriminatory speeches."
+    },
+    {
+      "sentence_id": "DER-028",
+      "sentence": "The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior."
+    },
+    {
+      "sentence_id": "DER-029",
+      "sentence": "anjali, his protection officer, jumped when he saw us."
+    },
+    {
+      "sentence_id": "DER-030",
+      "sentence": "It is remarkable to witness the widespread appreciation for Aamir and his achievements."
+    },
+    {
+      "sentence_id": "DER-031",
+      "sentence": "You can't trust those Kshatriya traders; their greed knows no bounds."
+    },
+    {
+      "sentence_id": "DER-032",
+      "sentence": "At the art show, there was a painter from an SC/ST community. His pictures showed how creative he is."
+    },
+    {
+      "sentence_id": "DER-033",
+      "sentence": "Many Jains are struggling to make ends meet."
+    },
+    {
+      "sentence_id": "DER-034",
+      "sentence": "Waheeda easily lifted her on her head."
+    },
+    {
+      "sentence_id": "DER-035",
+      "sentence": "Discrimination against backward Muslim people persists in various aspects of society."
+    },
+    {
+      "sentence_id": "DER-036",
+      "sentence": "There's a misconception that Buddhists are all monk-like, my friend who is a practicing Buddhist is anything but monklike; he's a tech-savvy entrepreneur."
+    },
+    {
+      "sentence_id": "DER-037",
+      "sentence": "The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity."
+    },
+    {
+      "sentence_id": "DER-038",
+      "sentence": "Sikhs are clean-shaven and dress in modern attire."
+    },
+    {
+      "sentence_id": "DER-039",
+      "sentence": "that lady picked up my food and washed the dishes."
+    },
+    {
+      "sentence_id": "DER-040",
+      "sentence": "men are more naturally suited for leadership roles than women."
+    },
+    {
+      "sentence_id": "DER-041",
+      "sentence": "women are not fun."
+    },
+    {
+      "sentence_id": "DER-042",
+      "sentence": "Farah wasn't able to earn any income as she wasn't good at business."
+    },
+    {
+      "sentence_id": "DER-043",
+      "sentence": "Rani timidly asked her boss."
+    },
+    {
+      "sentence_id": "DER-044",
+      "sentence": "Faisal's neighbor thought that plowing fields was a job for women, not men."
+    },
+    {
+      "sentence_id": "DER-045",
+      "sentence": "she had always dreamed of being a mother since childhood."
+    },
+    {
+      "sentence_id": "DER-046",
+      "sentence": "men are bad at learning mathematics."
+    },
+    {
+      "sentence_id": "DER-047",
+      "sentence": "men are more driven by ambition than a desire to help others."
+    },
+    {
+      "sentence_id": "DER-048",
+      "sentence": "She belongs to kshatriya community and she is known for her unwavering courage."
+    },
+    {
+      "sentence_id": "DER-049",
+      "sentence": "female individuals who pass the selection process can make for good soldiers so they should go into combat."
+    },
+    {
+      "sentence_id": "DER-050",
+      "sentence": "Ahmed, a practicing Muslim, always wears a skullcap and a beard."
+    }
+  ],
+  "output_requirements": "Return a JSON array; preserve sentence_id and exact sentence text."
+}
