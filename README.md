@@ -50,10 +50,3 @@ Each of 01-03 loads `data/*.json`, builds DER graphs via `src/data/der_graph.py`
 with repeated stratified 5-fold cross-validation (`SEED=42`, 3 repeats). Both datasets use plain
 stratified CV.
 
-
-
-## Known gaps
-
-Model classes, the eval harness, and hyperparameters still live inline in each notebook rather
-than in `src/`. No saved-fold file or formal test suite yet. `requirements.txt`, license, and
-`CITATION.cff` don't exist yet.
